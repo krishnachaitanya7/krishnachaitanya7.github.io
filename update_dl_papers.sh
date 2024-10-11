@@ -10,14 +10,6 @@ cd "$BLOG_PATH"
 # Pulling all the latest updates
 git pull
 rm $DL_PAPERS_MD
-echo "---
-title: "Latest Deep Learning Papers"
-date: $NOW +0800
-featured-img: DL-logo
-categories: [Deep_Learning]
-tags: [Deep_Learning]
-mathjax: Yes
----
 " > "$DL_PAPERS_MD"
 $ANACONDA_PATH $ARXIV_PATH --print True >> "$DL_PAPERS_MD"
 git add .
