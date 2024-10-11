@@ -13,5 +13,5 @@ rm $DL_PAPERS_MD
 " > "$DL_PAPERS_MD"
 $ANACONDA_PATH $ARXIV_PATH --print True >> "$DL_PAPERS_MD"
 git add .
-git commit -m "Update DL Papers"
+git commit -m 'Update DL Papers'
 git push -u origin main
