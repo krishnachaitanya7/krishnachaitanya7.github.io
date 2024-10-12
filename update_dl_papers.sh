@@ -4,7 +4,6 @@ ARXIV_PATH="$HOME/PycharmProjects/arXiv-Daily-Mailer/arxiv_mailer.py"
 BLOG_PATH="$HOME/PycharmProjects/krishnachaitanya7.github.io"
 ANACONDA_PATH="/usr/bin/python"
 DL_PAPERS_MD="$BLOG_PATH/README.md"
-NOW=$(date +"%Y-%m-%d %H:%M:%S")
 # End hardcoding variables
 cd "$BLOG_PATH"
 # Pulling all the latest updates
