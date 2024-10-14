@@ -1,1 +1,13 @@
-<h1>Your arXiv Feed for October 13, 2024 (0 Articles)</h1>
+<h1>Your arXiv Feed for October 14, 2024 (2 Articles)</h1>
+<h2>Learning Bipedal Walking for Humanoid Robots in Challenging Environments with Obstacle Avoidance</h2>
+<h3>Marwan Hamze (LISV), Mitsuharu Morisawa (AIST), Eiichi Yoshida (CNRS-AIST JRL)</h3>
+<p>arXiv:2410.08212v1 Announce Type: new 
+Abstract: Deep reinforcement learning has seen successful implementations on humanoid robots to achieve dynamic walking. However, these implementations have been so far successful in simple environments void of obstacles. In this paper, we aim to achieve bipedal locomotion in an environment where obstacles are present using a policy-based reinforcement learning. By adding simple distance reward terms to a state of art reward function that can achieve basic bipedal locomotion, the trained policy succeeds in navigating the robot towards the desired destination without colliding with the obstacles along the way.</p>
+<a href='https://arxiv.org/abs/2410.08212'>ArXiv Link</a>
+
+<h2>Compressing regularised dynamics improves link prediction in sparse networks</h2>
+<h3>Maja Lindstr\"om, Christopher Bl\"ocker, Tommy L\"ofstedt, Martin Rosvall</h3>
+<p>arXiv:2410.08777v1 Announce Type: new 
+Abstract: Predicting future interactions or novel links in networks is an indispensable tool across diverse domains, including genetic research, online social networks, and recommendation systems. Among the numerous techniques developed for link prediction, those leveraging the networks' community structure have proven highly effective. For example, the recently proposed MapSim predicts links based on a similarity measure derived from the code structure of the map equation, a community-detection objective function that operates on network flows. However, the standard map equation assumes complete observations and typically identifies many small modules in networks where the nodes connect through only a few links. This aspect can degrade MapSim's performance on sparse networks. To overcome this limitation, we incorporate a global regularisation method based on a Bayesian estimate of the transition rates along with three local regularisation methods. The regularised versions of the map equation compensate for incomplete observations and decrease the number of identified communities in sparse networks. The regularised methods outperform standard MapSim and several state-of-the-art embedding methods in highly sparse networks. This performance holds across multiple real-world networks with randomly removed links, simulating incomplete observations. Among the proposed regularisation methods, the global regularisation method provides the most reliable community detection and the highest link prediction performance across different network densities.</p>
+<a href='https://arxiv.org/abs/2410.08777'>ArXiv Link</a>
+
