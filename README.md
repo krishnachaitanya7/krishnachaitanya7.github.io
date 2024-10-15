@@ -1,4 +1,16 @@
-<h1>Your arXiv Feed for October 14, 2024 (2 Articles)</h1>
+<h1>Your arXiv Feed for October 15, 2024 (4 Articles)</h1>
+<h2>Global dynamics and integrability of a Leslie-Gower predator-prey model with linear functional response and generalist predator</h2>
+<h3>Martha Alvarez-Ram\'irez, Johanna D. Garc\'ia-Salda\~na, Mario Medina</h3>
+<p>arXiv:2410.10104v1 Announce Type: new 
+Abstract: We deal with a Leslie-Gower predator-prey model with a generalist or alternating food for predator and linear functional response. Using a topological equivalent polynomial system we prove that the system is not Liouvillian (hence also not Darboux) integrable. In order to study the global dynamics of this model, we use the Poincar\'e compactification of $\mathbb{R}^2$ to characterize all phase portraits in the Poincar\'e disc, obtaining two different topological phase portraits.</p>
+<a href='https://arxiv.org/abs/2410.10104'>ArXiv Link</a>
+
+<h2>Deflated HeteroPCA: Overcoming the curse of ill-conditioning in heteroskedastic PCA</h2>
+<h3>Yuchen Zhou, Yuxin Chen</h3>
+<p>arXiv:2303.06198v2 Announce Type: replace 
+Abstract: This paper is concerned with estimating the column subspace of a low-rank matrix $\boldsymbol{X}^\star \in \mathbb{R}^{n_1\times n_2}$ from contaminated data. How to obtain optimal statistical accuracy while accommodating the widest range of signal-to-noise ratios (SNRs) becomes particularly challenging in the presence of heteroskedastic noise and unbalanced dimensionality (i.e., $n_2\gg n_1$). While the state-of-the-art algorithm $\textsf{HeteroPCA}$ emerges as a powerful solution for solving this problem, it suffers from "the curse of ill-conditioning," namely, its performance degrades as the condition number of $\boldsymbol{X}^\star$ grows. In order to overcome this critical issue without compromising the range of allowable SNRs, we propose a novel algorithm, called $\textsf{Deflated-HeteroPCA}$, that achieves near-optimal and condition-number-free theoretical guarantees in terms of both $\ell_2$ and $\ell_{2,\infty}$ statistical accuracy. The proposed algorithm divides the spectrum of $\boldsymbol{X}^\star$ into well-conditioned and mutually well-separated subblocks, and applies $\textsf{HeteroPCA}$ to conquer each subblock successively. Further, an application of our algorithm and theory to two canonical examples -- the factor model and tensor PCA -- leads to remarkable improvement for each application.</p>
+<a href='https://arxiv.org/abs/2303.06198'>ArXiv Link</a>
+
 <h2>Learning Bipedal Walking for Humanoid Robots in Challenging Environments with Obstacle Avoidance</h2>
 <h3>Marwan Hamze (LISV), Mitsuharu Morisawa (AIST), Eiichi Yoshida (CNRS-AIST JRL)</h3>
 <p>arXiv:2410.08212v1 Announce Type: new 
