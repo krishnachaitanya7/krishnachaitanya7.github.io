@@ -1,13 +1,7 @@
-<h1>Your arXiv Feed for October 29, 2024 (2 Articles)</h1>
-<h2>Yoneda lemma and representation theorem for double categories</h2>
-<h3>Benedikt Fr\"ohlich, Lyne Moser</h3>
-<p>arXiv:2402.10640v2 Announce Type: replace 
-Abstract: We study (vertically) normal lax double functors valued in the weak double category $\mathbb{C}\mathrm{at}$ of small categories, functors, profunctors and natural transformations, which we refer to as lax double presheaves. We show that for the theory of double categories they play a similar role as 2-functors valued in $\mathrm{Cat}$ for 2-categories. We first introduce representable lax double presheaves and establish a Yoneda lemma. Then we build a Grothendieck construction which gives a 2-equivalence between lax double presheaves and discrete double fibrations over a fixed double category. Finally, we prove a representation theorem showing that a lax double presheaf is represented by an object if and only if its Grothendieck construction has a double terminal object.</p>
-<a href='https://arxiv.org/abs/2402.10640'>ArXiv Link</a>
-
-<h2>Matrix Denoising with Doubly Heteroscedastic Noise: Fundamental Limits and Optimal Spectral Methods</h2>
-<h3>Yihan Zhang, Marco Mondelli</h3>
-<p>arXiv:2405.13912v2 Announce Type: replace 
-Abstract: We study the matrix denoising problem of estimating the singular vectors of a rank-$1$ signal corrupted by noise with both column and row correlations. Existing works are either unable to pinpoint the exact asymptotic estimation error or, when they do so, the resulting approaches (e.g., based on whitening or singular value shrinkage) remain vastly suboptimal. On top of this, most of the literature has focused on the special case of estimating the left singular vector of the signal when the noise only possesses row correlation (one-sided heteroscedasticity). In contrast, our work establishes the information-theoretic and algorithmic limits of matrix denoising with doubly heteroscedastic noise. We characterize the exact asymptotic minimum mean square error, and design a novel spectral estimator with rigorous optimality guarantees: under a technical condition, it attains positive correlation with the signals whenever information-theoretically possible and, for one-sided heteroscedasticity, it also achieves the Bayes-optimal error. Numerical experiments demonstrate the significant advantage of our theoretically principled method with the state of the art. The proofs draw connections with statistical physics and approximate message passing, departing drastically from standard random matrix theory techniques.</p>
-<a href='https://arxiv.org/abs/2405.13912'>ArXiv Link</a>
+<h1>Your arXiv Feed for October 30, 2024 (1 Articles)</h1>
+<h2>Diagnosis of Knee Osteoarthritis Using Bioimpedance and Deep Learning</h2>
+<h3>Jamal Al-Nabulsi, Mohammad Al-Sayed Ahmad, Baraa Hasaneiah, Fayhaa AlZoubi</h3>
+<p>arXiv:2410.21512v1 Announce Type: cross 
+Abstract: Diagnosing knee osteoarthritis (OA) early is crucial for managing symptoms and preventing further joint damage, ultimately improving patient outcomes and quality of life. In this paper, a bioimpedance-based diagnostic tool that combines precise hardware and deep learning for effective non-invasive diagnosis is proposed. system features a relay-based circuit and strategically placed electrodes to capture comprehensive bioimpedance data. The data is processed by a neural network model, which has been optimized using convolutional layers, dropout regularization, and the Adam optimizer. This approach achieves a 98% test accuracy, making it a promising tool for detecting knee osteoarthritis musculoskeletal disorders.</p>
+<a href='https://arxiv.org/abs/2410.21512'>ArXiv Link</a>
 
