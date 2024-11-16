@@ -1,7 +1,1 @@
-<h1>Your arXiv Feed for November 15, 2024 (1 Articles)</h1>
-<h2>Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing</h2>
-<h3>Yuming Feng, Chuye Hong, Yaru Niu, Shiqi Liu, Yuxiang Yang, Wenhao Yu, Tingnan Zhang, Jie Tan, Ding Zhao</h3>
-<p>arXiv:2411.07104v2 Announce Type: replace 
-Abstract: Recently, quadrupedal locomotion has achieved significant success, but their manipulation capabilities, particularly in handling large objects, remain limited, restricting their usefulness in demanding real-world applications such as search and rescue, construction, industrial automation, and room organization. This paper tackles the task of obstacle-aware, long-horizon pushing by multiple quadrupedal robots. We propose a hierarchical multi-agent reinforcement learning framework with three levels of control. The high-level controller integrates an RRT planner and a centralized adaptive policy to generate subgoals, while the mid-level controller uses a decentralized goal-conditioned policy to guide the robots toward these sub-goals. A pre-trained low-level locomotion policy executes the movement commands. We evaluate our method against several baselines in simulation, demonstrating significant improvements over baseline approaches, with 36.0% higher success rates and 24.5% reduction in completion time than the best baseline. Our framework successfully enables long-horizon, obstacle-aware manipulation tasks like Push-Cuboid and Push-T on Go1 robots in the real world.</p>
-<a href='https://arxiv.org/abs/2411.07104'>ArXiv Link</a>
-
+<h1>Your arXiv Feed for November 16, 2024 (0 Articles)</h1>
