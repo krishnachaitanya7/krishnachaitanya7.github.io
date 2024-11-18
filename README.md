@@ -1,1 +1,7 @@
-<h1>Your arXiv Feed for November 17, 2024 (0 Articles)</h1>
+<h1>Your arXiv Feed for November 18, 2024 (1 Articles)</h1>
+<h2>Whole-Body Impedance Coordinative Control of Wheel-Legged Robot on Uncertain Terrain</h2>
+<h3>Lei Shi, Xinghua Yu, Cheng Zhou, Wanxin Jin, Wanchao Chi, Shenghao Zhang, Dongsheng Zhang, Xiong Li, Zhengyou Zhang</h3>
+<p>arXiv:2411.09935v1 Announce Type: new 
+Abstract: This article propose a whole-body impedance coordinative control framework for a wheel-legged humanoid robot to achieve adaptability on complex terrains while maintaining robot upper body stability. The framework contains a bi-level control strategy. The outer level is a variable damping impedance controller, which optimizes the damping parameters to ensure the stability of the upper body while holding an object. The inner level employs Whole-Body Control (WBC) optimization that integrates real-time terrain estimation based on wheel-foot position and force data. It generates motor torques while accounting for dynamic constraints, joint limits,friction cones, real-time terrain updates, and a model-free friction compensation strategy. The proposed whole-body coordinative control method has been tested on a recently developed quadruped humanoid robot. The results demonstrate that the proposed algorithm effectively controls the robot, maintaining upper body stability to successfully complete a water-carrying task while adapting to varying terrains.</p>
+<a href='https://arxiv.org/abs/2411.09935'>ArXiv Link</a>
+
