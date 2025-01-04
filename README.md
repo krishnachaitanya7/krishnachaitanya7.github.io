@@ -1,13 +1,1 @@
-<h1>Your arXiv Feed for January 03, 2025 (2 Articles)</h1>
-<h2>Steppability-informed Quadrupedal Contact Planning through Deep Visual Search Heuristics</h2>
-<h3>Max Asselmeier, Ye Zhao, Patricio A. Vela</h3>
-<p>arXiv:2501.00112v1 Announce Type: new 
-Abstract: In this work, we introduce a method for predicting environment steppability -- the ability of a legged robot platform to place a foothold at a particular location in the local environment -- in the image space. This novel environment representation captures this critical geometric property of the local terrain while allowing us to exploit the computational benefits of sensing and planning in the image space. We adapt a primitive shapes-based synthetic data generation scheme to create geometrically rich and diverse simulation scenes and extract ground truth semantic information in order to train a steppability model. We then integrate this steppability model into an existing interleaved graph search and trajectory optimization-based footstep planner to demonstrate how this steppability paradigm can inform footstep planning in complex, unknown environments. We analyze the steppability model performance to demonstrate its validity, and we deploy the perception-informed footstep planner both in offline and online settings to experimentally verify planning performance.</p>
-<a href='https://arxiv.org/abs/2501.00112'>ArXiv Link</a>
-
-<h2>Using pretrained graph neural networks with token mixers as geometric featurizers for conformational dynamics</h2>
-<h3>Zihan Pengmei, Chatipat Lorpaiboon, Spencer C. Guo, Jonathan Weare, Aaron R. Dinner</h3>
-<p>arXiv:2409.19838v2 Announce Type: replace 
-Abstract: Identifying informative low-dimensional features that characterize dynamics in molecular simulations remains a challenge, often requiring extensive manual tuning and system-specific knowledge. Here, we introduce geom2vec, in which pretrained graph neural networks (GNNs) are used as universal geometric featurizers. By pretraining equivariant GNNs on a large dataset of molecular conformations with a self-supervised denoising objective, we obtain transferable structural representations that are useful for learning conformational dynamics without further fine-tuning. We show how the learned GNN representations can capture interpretable relationships between structural units (tokens) by combining them with expressive token mixers. Importantly, decoupling training the GNNs from training for downstream tasks enables analysis of larger molecular graphs (such as small proteins at all-atom resolution) with limited computational resources. In these ways, geom2vec eliminates the need for manual feature selection and increases the robustness of simulation analyses.</p>
-<a href='https://arxiv.org/abs/2409.19838'>ArXiv Link</a>
-
+<h1>Your arXiv Feed for January 04, 2025 (0 Articles)</h1>
