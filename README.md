@@ -1,13 +1,1 @@
-<h1>Your arXiv Feed for January 15, 2025 (2 Articles)</h1>
-<h2>Adaptive Ridge Approach to Heteroscedastic Regression</h2>
-<h3>Ka Long Keith Ho, Hiroki Masuda</h3>
-<p>arXiv:2402.13642v3 Announce Type: replace 
-Abstract: We propose an adaptive ridge (AR) estimation scheme for a heteroscedastic linear regression model with log-linear noise in data. We simultaneously estimate the mean and variance parameters, demonstrating new asymptotic distributional and tightness properties in a sparse setting. We also show that estimates for zero parameters shrink with more iterations under suitable assumptions for tuning parameters. Aspects of application and possible generalizations are presented through simulations and real data examples.</p>
-<a href='https://arxiv.org/abs/2402.13642'>ArXiv Link</a>
-
-<h2>CHEQ-ing the Box: Safe Variable Impedance Learning for Robotic Polishing</h2>
-<h3>Emma Cramer, Lukas J\"aschke, Sebastian Trimpe</h3>
-<p>arXiv:2501.07985v1 Announce Type: new 
-Abstract: Robotic systems are increasingly employed for industrial automation, with contact-rich tasks like polishing requiring dexterity and compliant behaviour. These tasks are difficult to model, making classical control challenging. Deep reinforcement learning (RL) offers a promising solution by enabling the learning of models and control policies directly from data. However, its application to real-world problems is limited by data inefficiency and unsafe exploration. Adaptive hybrid RL methods blend classical control and RL adaptively, combining the strengths of both: structure from control and learning from RL. This has led to improvements in data efficiency and exploration safety. However, their potential for hardware applications remains underexplored, with no evaluations on physical systems to date. Such evaluations are critical to fully assess the practicality and effectiveness of these methods in real-world settings. This work presents an experimental demonstration of the hybrid RL algorithm CHEQ for robotic polishing with variable impedance, a task requiring precise force and velocity tracking. In simulation, we show that variable impedance enhances polishing performance. We compare standalone RL with adaptive hybrid RL, demonstrating that CHEQ achieves effective learning while adhering to safety constraints. On hardware, CHEQ achieves effective polishing behaviour, requiring only eight hours of training and incurring just five failures. These results highlight the potential of adaptive hybrid RL for real-world, contact-rich tasks trained directly on hardware.</p>
-<a href='https://arxiv.org/abs/2501.07985'>ArXiv Link</a>
-
+<h1>Your arXiv Feed for January 16, 2025 (0 Articles)</h1>
