@@ -1,1 +1,7 @@
-<h1>Your arXiv Feed for January 16, 2025 (0 Articles)</h1>
+<h1>Your arXiv Feed for January 17, 2025 (1 Articles)</h1>
+<h2>MultiGraphMatch: a subgraph matching algorithm for multigraphs</h2>
+<h3>Giovanni Micale, Antonio Di Maria, Roberto Grasso, Vincenzo Bonnici, Alfredo Ferro, Dennis Shasha, Rosalba Giugno, Alfredo Pulvirenti</h3>
+<p>arXiv:2501.09736v1 Announce Type: new 
+Abstract: Subgraph matching is the problem of finding all the occurrences of a small graph, called the query, in a larger graph, called the target. Although the problem has been widely studied in simple graphs, few solutions have been proposed for multigraphs, in which two nodes can be connected by multiple edges, each denoting a possibly different type of relationship. In our new algorithm MultiGraphMatch, nodes and edges can be associated with labels and multiple properties. MultiGraphMatch introduces a novel data structure called bit matrix to efficiently index both the query and the target and filter the set of target edges that are matchable with each query edge. In addition, the algorithm proposes a new technique for ordering the processing of query edges based on the cardinalities of the sets of matchable edges. Using the CYPHER query definition language, MultiGraphMatch can perform queries with logical conditions on node and edge labels. We compare MultiGraphMatch with SuMGra and graph database systems Memgraph and Neo4J, showing comparable or better performance in all queries on a wide variety of synthetic and real-world graphs.</p>
+<a href='https://arxiv.org/abs/2501.09736'>ArXiv Link</a>
+
