@@ -1,1 +1,7 @@
-<h1>Your arXiv Feed for January 19, 2025 (0 Articles)</h1>
+<h1>Your arXiv Feed for January 20, 2025 (1 Articles)</h1>
+<h2>Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference</h2>
+<h3>Carlos Sebasti\'an, Carlos E. Gonz\'alez-Guill\'en, Jes\'us Juan</h3>
+<p>arXiv:2406.14904v2 Announce Type: replace-cross 
+Abstract: Constructing prediction intervals for time series forecasting is challenging, particularly when practitioners rely solely on point forecasts. While previous research has focused on creating increasingly efficient intervals, we argue that standard measures alone are inadequate. Beyond efficiency, prediction intervals must adapt their width based on the difficulty of the prediction while preserving coverage regardless of complexity. To address these issues, we propose combining Heteroscedastic Quantile Regression (HQR) with Width-Adaptive Conformal Inference (WACI). This integrated procedure guarantees theoretical coverage and enables interval widths to vary with predictive uncertainty. We assess its performance using both a synthetic example and a real world Electricity Price Forecasting scenario. Our results show that this combined approach meets or surpasses typical benchmarks for validity and efficiency, while also fulfilling important yet often overlooked practical requirements.</p>
+<a href='https://arxiv.org/abs/2406.14904'>ArXiv Link</a>
+
