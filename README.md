@@ -1,1 +1,7 @@
-<h1>Your arXiv Feed for February 16, 2025 (0 Articles)</h1>
+<h1>Your arXiv Feed for February 17, 2025 (1 Articles)</h1>
+<h2>Eco-evolutionary dynamics of a trait-structured predator-prey model</h2>
+<h3>Manh Hong Duong, Fabian Spill, Blaine van Rensburg</h3>
+<p>arXiv:2501.07379v2 Announce Type: replace 
+Abstract: The coupling between evolutionary and ecological changes (eco-evolutionary dynamics) has been shown to be relevant among diverse species, and is also of interest outside of ecology, i.e. in cancer evolution. These dynamics play an important role in determining survival in response to climate change, motivating the need for mathematical models to capture this often complex interplay. Models incorporating eco-evolutionary dynamics often sacrifice analytical tractability to capture the complexity of real systems, do not explicitly consider the effect of population heterogeneity, or focus on long-term behaviour. In order to capture population heterogeneity, both transient, and long-term dynamics, while retaining tractability, we generalise a moment-based method applicable in the regime of small segregational variance to the case of time-dependent mortality and birth. These results are applied to a predator-prey model, where ecological parameters such as the contact rate between species are trait-structured. The trait-distribution of the prey species is shown to be approximately Gaussian with constant variance centered on the mean trait, which is asymptotically governed by an autonomous ODE. In this way, we make explicit the impact of eco-evolutionary dynamics on the transient behaviour and long-term fate of the prey species.</p>
+<a href='https://arxiv.org/abs/2501.07379'>ArXiv Link</a>
+
