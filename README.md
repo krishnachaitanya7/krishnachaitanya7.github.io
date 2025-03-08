@@ -1,7 +1,1 @@
-<h1>Your arXiv Feed for March 07, 2025 (1 Articles)</h1>
-<h2>AI for Scaling Legal Reform: Mapping and Redacting Racial Covenants in Santa Clara County</h2>
-<h3>Faiz Surani, Mirac Suzgun, Vyoma Raman, Christopher D. Manning, Peter Henderson, Daniel E. Ho</h3>
-<p>arXiv:2503.03888v1 Announce Type: new 
-Abstract: Many jurisdictions have moved to identify and strike these provisions, including California, which mandated in 2021 that all counties implement such a process. Yet the scale can be overwhelming, with Santa Clara County (SCC) alone having over 24 million property deed documents, making purely manual review infeasible. We present a novel approach to addressing this pressing issue, developed through a partnership with the SCC Clerk-Recorder's Office. First, we leverage an open large language model, fine-tuned to detect racial covenants with high precision and recall. We estimate that this system reduces manual efforts by 86,500 person hours and costs less than 2% of the cost for a comparable off-the-shelf closed model. Second, we illustrate the County's integration of this model into responsible operational practice, including legal review and the creation of a historical registry, and release our model to assist the hundreds of jurisdictions engaged in similar efforts. Finally, our results reveal distinct periods of utilization of racial covenants, sharp geographic clustering, and the disproportionate role of a small number of developers in maintaining housing discrimination. We estimate that by 1950, one in four properties across the County were subject to racial covenants.</p>
-<a href='https://arxiv.org/abs/2503.03888'>ArXiv Link</a>
-
+<h1>Your arXiv Feed for March 08, 2025 (0 Articles)</h1>
