@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 16, 2025 (3 Articles)</h1>
+<h1>Your arXiv Feed for April 17, 2025 (3 Articles)</h1>
 <h2>Integrating electrocardiogram and fundus images for early detection of cardiovascular diseases</h2>
 <h3>K. A. Muthukumar, Dhruva Nandi, Priya Ranjan, Krithika Ramachandran, Shiny PJ, Anirban Ghosh, Ashwini M, Aiswaryah Radhakrishnan, V. E. Dhandapani, Rajiv Janardhanan</h3>
 <p>arXiv:2504.10493v1 Announce Type: cross 
