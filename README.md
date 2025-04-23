@@ -1,13 +1,1 @@
-<h1>Your arXiv Feed for April 22, 2025 (2 Articles)</h1>
-<h2>Edge-boosted graph learning for functional brain connectivity analysis</h2>
-<h3>David Yang, Mostafa Abdelmegeed, John Modl, Minjeong Kim</h3>
-<p>arXiv:2504.14796v1 Announce Type: new 
-Abstract: Predicting disease states from functional brain connectivity is critical for the early diagnosis of severe neurodegenerative diseases such as Alzheimer's Disease and Parkinson's Disease. Existing studies commonly employ Graph Neural Networks (GNNs) to infer clinical diagnoses from node-based brain connectivity matrices generated through node-to-node similarities of regionally averaged fMRI signals. However, recent neuroscience studies found that such node-based connectivity does not accurately capture ``functional connections" within the brain. This paper proposes a novel approach to brain network analysis that emphasizes edge functional connectivity (eFC), shifting the focus to inter-edge relationships. Additionally, we introduce a co-embedding technique to integrate edge functional connections effectively. Experimental results on the ADNI and PPMI datasets demonstrate that our method significantly outperforms state-of-the-art GNN methods in classifying functional brain networks.</p>
-<a href='https://arxiv.org/abs/2504.14796'>ArXiv Link</a>
-
-<h2>A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery</h2>
-<h3>Yingyu Lin, Yuxing Huang, Wenqin Liu, Haoran Deng, Ignavier Ng, Kun Zhang, Mingming Gong, Yi-An Ma, Biwei Huang</h3>
-<p>arXiv:2410.06407v2 Announce Type: replace 
-Abstract: Real-world data often violates the equal-variance assumption (homoscedasticity), making it essential to account for heteroscedastic noise in causal discovery. In this work, we explore heteroscedastic symmetric noise models (HSNMs), where the effect $Y$ is modeled as $Y = f(X) + \sigma(X)N$, with $X$ as the cause and $N$ as independent noise following a symmetric distribution. We introduce a novel criterion for identifying HSNMs based on the skewness of the score (i.e., the gradient of the log density) of the data distribution. This criterion establishes a computationally tractable measurement that is zero in the causal direction but nonzero in the anticausal direction, enabling the causal direction discovery. We extend this skewness-based criterion to the multivariate setting and propose SkewScore, an algorithm that handles heteroscedastic noise without requiring the extraction of exogenous noise. We also conduct a case study on the robustness of SkewScore in a bivariate model with a latent confounder, providing theoretical insights into its performance. Empirical studies further validate the effectiveness of the proposed method.</p>
-<a href='https://arxiv.org/abs/2410.06407'>ArXiv Link</a>
-
+<h1>Your arXiv Feed for April 23, 2025 (0 Articles)</h1>
