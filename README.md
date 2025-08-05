@@ -1,1 +1,7 @@
-<h1>Your arXiv Feed for August 04, 2025 (0 Articles)</h1>
+<h1>Your arXiv Feed for August 05, 2025 (1 Articles)</h1>
+<h2>Quantifying Fish School Fragmentation under Predation Using Stochastic Differential Equations</h2>
+<h3>Junyi Qi, Thorkil Casse, Masayoshi Harada, Linh Thi Hoai Nguyen, Ton Viet Ta</h3>
+<p>arXiv:2508.00953v1 Announce Type: cross 
+Abstract: This study builds upon our previously proposed stochastic differential equation (SDE)-based model to further investigate fish school fragmentation under predation. Specifically, we explore structural dynamics by incorporating graph-theoretic metrics--namely, the number of connected components--to quantify changes in prey school organization. Two quantitative indicators, first split time and final component count, are introduced to assess the timing and extent of group disintegration. Sensitivity analyses are performed on key parameters to evaluate their influence on group stability under nearest attack and center attack strategies. We independently examine the effect of environmental noise on fish school cohesion. Simulation results show that parameter changes impact fish school fragmentation differently under the two predation strategies. High environmental noise also makes it difficult for the school to stay cohesive. This framework provides a structured and quantitative basis for assessing how fish schools respond to different predation strategies and environmental noise levels.</p>
+<a href='https://arxiv.org/abs/2508.00953'>ArXiv Link</a>
+
