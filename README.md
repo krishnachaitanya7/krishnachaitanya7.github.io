@@ -1,1 +1,13 @@
-<h1>Your arXiv Feed for August 10, 2025 (0 Articles)</h1>
+<h1>Your arXiv Feed for August 11, 2025 (2 Articles)</h1>
+<h2>High multiplicity and global structure of coexistence states in a predator-prey model with saturation</h2>
+<h3>Kousuke Kuto, Juli\'an L\'opez-G\'omez, Eduardo Mu\~noz-Hern\'andez</h3>
+<p>arXiv:2508.05714v1 Announce Type: new 
+Abstract: This paper establishes that, under the appropriate range of values of the parameters involved in the formulation of the model, a diffusive predator-prey system with saturation can have an arbitrarily large number of coexistence states for sufficiently large saturation rates. Moreover, it ascertains the global structure of the set of coexistence states in the limiting system as the saturation rate blows-up.</p>
+<a href='https://arxiv.org/abs/2508.05714'>ArXiv Link</a>
+
+<h2>Utilizing Composer Packages to Accelerate Laravel-Based Project Development Among Students: A Pedagogical and Practical Framework</h2>
+<h3>Rohaizah Abdul Wahid, Muhamad Said Nizamuddin Nadim, Suliana Sulaiman, Syahmi Akmal Shaharudin, Muhammad Danial Jupikil, Iqqwan Jasman Su Azlan Su</h3>
+<p>arXiv:2508.05747v1 Announce Type: new 
+Abstract: Laravel has emerged as a foundational framework in university web development curricula. However, despite its scaffolding capabilities, students often struggle to complete projects within limited academic timelines. This conceptual paper introduces Composer, PHP's standard dependency manager, and categorizes a curated selection of Composer packages that significantly reduce development effort while fostering professional software practices. Grounded in practical and pedagogical considerations, the paper illustrates how educators and learners can strategically leverage these tools to build typical academic or personal Laravel-based systems. Central to this approach is maintaining code quality and reinforcing conceptual understanding. The paper also addresses potential risks such as package conflicts and over-reliance on tools, providing best-practice recommendations to mitigate them. While the goal is to accelerate development, the deeper objective is to reinforce professional workflows and industry readiness. Exposure to Composer packages enhances curriculum relevance and smooths the transition from academia to the workplace. However, effective integration requires deliberate instructional design aligned with learning objectives. Without guidance, students may treat packages as black boxes. Thus, educators must teach not only how to use these tools, but also when and why, encouraging critical evaluation of their utility and limitations. This ensures that practical convenience supports rather than supplants deep learning.</p>
+<a href='https://arxiv.org/abs/2508.05747'>ArXiv Link</a>
+
