@@ -1,8 +1,19 @@
-<h1>Your arXiv Feed for August 18, 2025 (1 Articles)</h1>
-<h2>Revisiting $(\infty,2)$-naturality of the Yoneda embedding</h2>
-<h3>Tobias Lenz</h3>
-<p>arXiv:2508.11526v1 Announce Type: new 
-Abstract: We show that the Yoneda embedding 'is' $(\infty,2)$-natural with respect to the functoriality of presheaves via left Kan extension, refining the $(\infty,1)$-categorical result proven independently by Haugseng-Hebestreit-Linskens-Nuiten and Ramzi, and answering a question of Ben-Moshe.
-  As the key technical ingredient, we show that the identity functor of the $(\infty,1)$-category of $(\infty,1)$-categories admits only one enhancement to an $(\infty,2)$-functor (namely, the identity functor).</p>
-<a href='https://arxiv.org/abs/2508.11526'>ArXiv Link</a>
+<h1>Your arXiv Feed for August 19, 2025 (3 Articles)</h1>
+<h2>A pedagogical approach to the black hole information problem</h2>
+<h3>Thiago T. Bergamaschi</h3>
+<p>arXiv:2505.17164v2 Announce Type: replace-cross 
+Abstract: The semiclassical depiction of gravity has provided many important results, such as particle creation effects in expanding universes and in spacetimes containing black holes. However, many questions remain open, most notably concerning the final product of the black hole evaporation process and the conservation of information. From a pedagogical perspective, we review the concepts that lead to this state of affairs, also known as the black hole information problem, and discuss the assumptions and hypotheses necessary for its formulation. Stating the necessary conjectures and results that lead to the geometrical properties of black holes, we present the notion of black hole evaporation and the result that entanglement between causally complementary regions is an intrinsic feature of quantum field theory under the Hadamard condition. We then show that, under certain assumptions, formation and complete evaporation of a black hole can lead to information loss. Comparing such a result to the main alternatives to this non-unitary dynamical evolution, we formulate the black hole information problem and show that information loss is a genuine prediction if no deviations from the semiclassical picture occur at the Planck scale.</p>
+<a href='https://arxiv.org/abs/2505.17164'>ArXiv Link</a>
+
+<h2>Anticipatory and Adaptive Footstep Streaming for Teleoperated Bipedal Robots</h2>
+<h3>Luigi Penco, Beomyeong Park, Stefan Fasano, Nehar Poddar, Stephen McCrory, Nicholas Kitchel, Tomasz Bialek, Dexton Anderson, Duncan Calvert, Robert Griffin</h3>
+<p>arXiv:2508.11802v1 Announce Type: new 
+Abstract: Achieving seamless synchronization between user and robot motion in teleoperation, particularly during high-speed tasks, remains a significant challenge. In this work, we propose a novel approach for transferring stepping motions from the user to the robot in real-time. Instead of directly replicating user foot poses, we retarget user steps to robot footstep locations, allowing the robot to utilize its own dynamics for locomotion, ensuring better balance and stability. Our method anticipates user footsteps to minimize delays between when the user initiates and completes a step and when the robot does it. The step estimates are continuously adapted to converge with the measured user references. Additionally, the system autonomously adjusts the robot's steps to account for its surrounding terrain, overcoming challenges posed by environmental mismatches between the user's flat-ground setup and the robot's uneven terrain. Experimental results on the humanoid robot Nadia demonstrate the effectiveness of the proposed system.</p>
+<a href='https://arxiv.org/abs/2508.11802'>ArXiv Link</a>
+
+<h2>No More Blind Spots: Learning Vision-Based Omnidirectional Bipedal Locomotion for Challenging Terrain</h2>
+<h3>Mohitvishnu S. Gadde, Pranay Dugar, Ashish Malik, Alan Fern</h3>
+<p>arXiv:2508.11929v1 Announce Type: new 
+Abstract: Effective bipedal locomotion in dynamic environments, such as cluttered indoor spaces or uneven terrain, requires agile and adaptive movement in all directions. This necessitates omnidirectional terrain sensing and a controller capable of processing such input. We present a learning framework for vision-based omnidirectional bipedal locomotion, enabling seamless movement using depth images. A key challenge is the high computational cost of rendering omnidirectional depth images in simulation, making traditional sim-to-real reinforcement learning (RL) impractical. Our method combines a robust blind controller with a teacher policy that supervises a vision-based student policy, trained on noise-augmented terrain data to avoid rendering costs during RL and ensure robustness. We also introduce a data augmentation technique for supervised student training, accelerating training by up to 10 times compared to conventional methods. Our framework is validated through simulation and real-world tests, demonstrating effective omnidirectional locomotion with minimal reliance on expensive rendering. This is, to the best of our knowledge, the first demonstration of vision-based omnidirectional bipedal locomotion, showcasing its adaptability to diverse terrains.</p>
+<a href='https://arxiv.org/abs/2508.11929'>ArXiv Link</a>
 
