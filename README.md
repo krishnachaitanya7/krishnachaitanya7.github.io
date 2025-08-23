@@ -1,7 +1,1 @@
-<h1>Your arXiv Feed for August 22, 2025 (1 Articles)</h1>
-<h2>Integrating Grid impedance estimation method into Advanced Angle Estimation Kalman Filter in GFL inverter</h2>
-<h3>Phuoc Sang Nguyen, Ghavameddin Nourbakhsh, Gerard Ledwich</h3>
-<p>arXiv:2507.17325v2 Announce Type: replace 
-Abstract: The growing integration of power electronic converter-interfaced distributed energy resources into modern power systems presents significant challenges for system monitoring, protection, and control. Grid impedance plays a critical role in the operation and stability assessment of grid-connected inverter systems. This study presents a real-time grid impedance estimation method based on the Discrete Fourier Transform. The proposed method is integrated with the Advanced Angle Estimation Kalman Filter using a Linear Quadratic Regulator current controller (AAEKF-LQR), assisting the use of impedance information for accurate instantaneous phase angle estimation. Simulation results confirm that the proposed impedance estimation method interacts effectively with the AAEKF-LQR controller, maintaining stable system performance under weak grid conditions. The approach also demonstrates the ability to deliver fast and accurate impedance estimation during operational variations in grid conditions, thereby supporting stable inverter operation.</p>
-<a href='https://arxiv.org/abs/2507.17325'>ArXiv Link</a>
-
+<h1>Your arXiv Feed for August 23, 2025 (0 Articles)</h1>
