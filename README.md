@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 05, 2025 (1 Articles)</h1>
+<h1>Your arXiv Feed for November 06, 2025 (1 Articles)</h1>
 <h2>A geometric analysis of the Bazykin-Berezovskaya predator-prey model with Allee effect in an economic framework</h2>
 <h3>Jacopo Borsotti, Mattia Sensi</h3>
 <p>arXiv:2504.10355v3 Announce Type: replace 
