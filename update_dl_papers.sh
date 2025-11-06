@@ -2,7 +2,7 @@
 # Start Hardcoding Variables
 ARXIV_PATH="$HOME/PycharmProjects/arXiv-Daily-Mailer/arxiv_mailer.py"
 BLOG_PATH="$HOME/PycharmProjects/krishnachaitanya7.github.io"
-ANACONDA_PATH="/usr/bin/python"
+ANACONDA_PATH="$HOME/PycharmProjects/daily_scripts/.venv/bin/python"
 DL_PAPERS_MD="$BLOG_PATH/README.md"
 # End hardcoding variables
 cd "$BLOG_PATH"
