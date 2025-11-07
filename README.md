@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 06, 2025 (2 Articles)</h1>
+<h1>Your arXiv Feed for November 07, 2025 (2 Articles)</h1>
 <h2>A variational Lippmann-Schwinger-type approach for the Helmholtz impedance problem on bounded domains</h2>
 <h3>Andreas Tataris, Alexander V. Mamonov</h3>
 <p>arXiv:2511.04056v1 Announce Type: new 
