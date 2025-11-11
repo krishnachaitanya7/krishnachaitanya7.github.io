@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 10, 2025 (6 Articles)</h1>
+<h1>Your arXiv Feed for November 11, 2025 (6 Articles)</h1>
 <h2>Whole-Body Control With Terrain Estimation of A 6-DoF Wheeled Bipedal Robot</h2>
 <h3>Cong Wen, Yunfei Li, Kexin Liu, Yixin Qiu, Xuanhong Liao, Tianyu Wang, Dingchuan Liu, Tao Zhang, Ximin Lyu</h3>
 <p>arXiv:2511.06397v1 Announce Type: new 
