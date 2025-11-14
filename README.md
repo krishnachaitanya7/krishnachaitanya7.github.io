@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 13, 2025 (1 Articles)</h1>
+<h1>Your arXiv Feed for November 14, 2025 (1 Articles)</h1>
 <h2>Overlap-aware meta-learning attention to enhance hypergraph neural networks for node classification</h2>
 <h3>Murong Yang, Shihui Ying, Yue Gao, Xin-Jian Xu</h3>
 <p>arXiv:2503.07961v2 Announce Type: replace 
