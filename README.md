@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 17, 2025 (5 Articles)</h1>
+<h1>Your arXiv Feed for November 18, 2025 (5 Articles)</h1>
 <h2>Transmutation operators for Schr\"odinger equations with distributional potentials and the associated impedance equation</h2>
 <h3>V\'ictor A. Vicente-Ben\'itez</h3>
 <p>arXiv:2511.12094v1 Announce Type: new 
