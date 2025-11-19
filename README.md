@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 18, 2025 (2 Articles)</h1>
+<h1>Your arXiv Feed for November 19, 2025 (2 Articles)</h1>
 <h2>Credal Ensemble Distillation for Uncertainty Quantification</h2>
 <h3>Kaizheng Wang, Fabio Cuzzolin, David Moens, Hans Hallez</h3>
 <p>arXiv:2511.13766v1 Announce Type: new 
