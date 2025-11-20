@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 19, 2025 (3 Articles)</h1>
+<h1>Your arXiv Feed for November 20, 2025 (3 Articles)</h1>
 <h2>A pedagogical approach to the black hole information issue</h2>
 <h3>Thiago T. Bergamaschi</h3>
 <p>arXiv:2505.17164v3 Announce Type: replace-cross 
