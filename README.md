@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 20, 2025 (4 Articles)</h1>
+<h1>Your arXiv Feed for November 21, 2025 (4 Articles)</h1>
 <h2>A low-rank non-convex norm method for multiview graph clustering</h2>
 <h3>Alaeddine Zahir, Khalide Jbilou, Ahmed Ratnani</h3>
 <p>arXiv:2312.11157v2 Announce Type: replace-cross 
