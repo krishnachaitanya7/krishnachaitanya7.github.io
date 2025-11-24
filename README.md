@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 23, 2025 (3 Articles)</h1>
+<h1>Your arXiv Feed for November 24, 2025 (3 Articles)</h1>
 <h2>Human Imitated Bipedal Locomotion with Frequency Based Gait Generator Network</h2>
 <h3>Yusuf Baran Ates, Omer Morgul</h3>
 <p>arXiv:2511.17387v1 Announce Type: new 
