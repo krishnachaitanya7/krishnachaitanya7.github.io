@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 24, 2025 (2 Articles)</h1>
+<h1>Your arXiv Feed for November 25, 2025 (2 Articles)</h1>
 <h2>AIA-UltraNeRF:Acoustic-Impedance-Aware Neural Radiance Field with Hash Encodings for Robotic Ultrasound Reconstruction and Localization</h2>
 <h3>Shuai Zhang, Jingsong Mu, Cancan Zhao, Leiqi Tian, Zhijun Xing, Bo Ouyang, Xiang Li</h3>
 <p>arXiv:2511.18293v1 Announce Type: new 
