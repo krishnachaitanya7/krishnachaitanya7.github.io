@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 25, 2025 (1 Articles)</h1>
+<h1>Your arXiv Feed for November 26, 2025 (1 Articles)</h1>
 <h2>Extension and neural operator approximation of the electrical impedance tomography inverse map</h2>
 <h3>Maarten V. de Hoop, Nikola B. Kovachki, Matti Lassas, Nicholas H. Nelsen</h3>
 <p>arXiv:2511.20361v1 Announce Type: new 
