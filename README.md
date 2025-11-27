@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for November 26, 2025 (3 Articles)</h1>
+<h1>Your arXiv Feed for November 27, 2025 (3 Articles)</h1>
 <h2>UruDendro4: A Benchmark Dataset for Automatic Tree-Ring Detection in Cross-Section Images of Pinus taeda L</h2>
 <h3>Henry Marichal, Joaquin Blanco, Diego Passarella, Gregory Randall</h3>
 <p>arXiv:2511.20935v1 Announce Type: new 
