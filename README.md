@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for December 14, 2025 (3 Articles)</h1>
+<h1>Your arXiv Feed for December 15, 2025 (3 Articles)</h1>
 <h2>A piecewise deterministic model for a prey-predator community</h2>
 <h3>Manon Costa</h3>
 <p>arXiv:1503.02492v5 Announce Type: replace 
