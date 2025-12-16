@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for December 15, 2025 (11 Articles)</h1>
+<h1>Your arXiv Feed for December 16, 2025 (11 Articles)</h1>
 <h2>Modeling the Prey-Predator Dynamics of Habu Snakes and Mongooses Leading to Ecological Disaster on Amami Oshima Island in Japan</h2>
 <h3>Pulak Kundu, Uzzwal Kumar Mallick</h3>
 <p>arXiv:2512.12388v1 Announce Type: cross 
