@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for December 17, 2025 (2 Articles)</h1>
+<h1>Your arXiv Feed for December 18, 2025 (2 Articles)</h1>
 <h2>Revisiting $(\infty,2)$-naturality of the Yoneda embedding</h2>
 <h3>Tobias Lenz</h3>
 <p>arXiv:2508.11526v2 Announce Type: replace 
