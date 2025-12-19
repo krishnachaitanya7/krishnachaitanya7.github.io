@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for December 18, 2025 (1 Articles)</h1>
+<h1>Your arXiv Feed for December 19, 2025 (1 Articles)</h1>
 <h2>Transformer Driven Visual Servoing and Dual Arm Impedance Control for Fabric Texture Matching</h2>
 <h3>Fuyuki Tokuda, Akira Seino, Akinari Kobayashi, Kai Tang, Kazuhiro Kosuge</h3>
 <p>arXiv:2511.21203v3 Announce Type: replace 
