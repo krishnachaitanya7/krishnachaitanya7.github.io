@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for December 24, 2025 (2 Articles)</h1>
+<h1>Your arXiv Feed for December 25, 2025 (2 Articles)</h1>
 <h2>Turing-Turing Bifurcation and Normal Form in a Predator-Prey Model with Predator-Taxis and Prey Refuge</h2>
 <h3>Yehu Lv</h3>
 <p>arXiv:2506.09360v2 Announce Type: replace 
