@@ -1,1 +1,14 @@
-<h1>Your arXiv Feed for December 28, 2025 (0 Articles)</h1>
+<h1>Your arXiv Feed for December 28, 2025 (2 Articles)</h1>
+<h2>Stochastic positivity-preserving symplectic splitting methods for stochastic Lotka--Volterra predator-prey model</h2>
+<h3>Liying Zhang, Xinyue Kang, Lihai Ji</h3>
+<p>arXiv:2504.02228v2 Announce Type: replace 
+Abstract: In this paper, we present two stochastic positive-preserving symplectic methods for the stochastic Lotka-Volterra predator-prey model driven by a multiplicative noise. To inherit the intrinsic characteristic of the original system, the stochastic Lie--Trotter splitting method and the stochastic Strang splitting method are introduced, which are proved to preserve the positivity of the numerical solution and possess the discrete stochastic symplectic conservation law as well. By deriving the uniform boundedness of the $p$-th moment of the numerical solution, we prove that the strong convergence orders of these two methods are both one in the $L^2(\Omega)$-norm. Finally, we validate the theoretical results through two and four dimensional numerical examples.</p>
+<a href='https://arxiv.org/abs/2504.02228'>ArXiv Link</a>
+
+<h2>RIPCN: A Road Impedance Principal Component Network for Probabilistic Traffic Flow Forecasting</h2>
+<h3>Haochen Lv, Yan Lin, Shengnan Guo, Xiaowei Mao, Hong Nie, Letian Gong, Youfang Lin, Huaiyu Wan</h3>
+<p>arXiv:2512.21685v1 Announce Type: new 
+Abstract: Accurate traffic flow forecasting is crucial for intelligent transportation services such as navigation and ride-hailing. In such applications, uncertainty estimation in forecasting is important because it helps evaluate traffic risk levels, assess forecast reliability, and provide timely warnings. As a result, probabilistic traffic flow forecasting (PTFF) has gained significant attention, as it produces both point forecasts and uncertainty estimates. However, existing PTFF approaches still face two key challenges: (1) how to uncover and model the causes of traffic flow uncertainty for reliable forecasting, and (2) how to capture the spatiotemporal correlations of uncertainty for accurate prediction.
+  To address these challenges, we propose RIPCN, a Road Impedance Principal Component Network that integrates domain-specific transportation theory with spatiotemporal principal component learning for PTFF. RIPCN introduces a dynamic impedance evolution network that captures directional traffic transfer patterns driven by road congestion level and flow variability, revealing the direct causes of uncertainty and enhancing both reliability and interpretability. In addition, a principal component network is designed to forecast the dominant eigenvectors of future flow covariance, enabling the model to capture spatiotemporal uncertainty correlations. This design allows for accurate and efficient uncertainty estimation while also improving point prediction performance. Experimental results on real-world datasets show that our approach outperforms existing probabilistic forecasting methods.</p>
+<a href='https://arxiv.org/abs/2512.21685'>ArXiv Link</a>
+
