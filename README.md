@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for December 28, 2025 (2 Articles)</h1>
+<h1>Your arXiv Feed for December 29, 2025 (2 Articles)</h1>
 <h2>Stochastic positivity-preserving symplectic splitting methods for stochastic Lotka--Volterra predator-prey model</h2>
 <h3>Liying Zhang, Xinyue Kang, Lihai Ji</h3>
 <p>arXiv:2504.02228v2 Announce Type: replace 
