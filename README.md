@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for December 29, 2025 (5 Articles)</h1>
+<h1>Your arXiv Feed for December 30, 2025 (5 Articles)</h1>
 <h2>Determining habitat anomalies in cross-diffusion predator-prey chemotaxis models</h2>
 <h3>Yuhan Li, Hongyu Liu, Catharine W. K. Lo</h3>
 <p>arXiv:2512.22946v1 Announce Type: new 
