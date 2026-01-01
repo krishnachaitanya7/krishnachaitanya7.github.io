@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for December 31, 2025 (2 Articles)</h1>
+<h1>Your arXiv Feed for January 01, 2026 (2 Articles)</h1>
 <h2>Heteroscedastic Bayesian Optimization-Based Dynamic PID Tuning for Accurate and Robust UAV Trajectory Tracking</h2>
 <h3>Fuqiang Gu, Jiangshan Ai, Xu Lu, Xianlei Long, Yan Li, Tao Jiang, Chao Chen, Huidong Liu</h3>
 <p>arXiv:2512.24249v1 Announce Type: new 
