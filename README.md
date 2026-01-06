@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 05, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for January 06, 2026 (4 Articles)</h1>
 <h2>AIMS: An Adaptive Integration of Multi-Sensor Measurements for Quadrupedal Robot Localization</h2>
 <h3>Yujian Qiu, Yuqiu Mu, Wen Yang, Hao Zhu</h3>
 <p>arXiv:2601.01561v1 Announce Type: new 
