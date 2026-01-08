@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 07, 2026 (7 Articles)</h1>
+<h1>Your arXiv Feed for January 08, 2026 (7 Articles)</h1>
 <h2>Adaptive thresholding for wavelet-based nonparametric heteroskedastic variance estimation on the sphere</h2>
 <h3>Claudio Durastanti, Radomyra Shevchenko</h3>
 <p>arXiv:2601.03920v1 Announce Type: new 
