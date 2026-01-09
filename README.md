@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 08, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for January 09, 2026 (4 Articles)</h1>
 <h2>Neumann series of Bessel functions for the solutions of the Sturm-Liouville equation in impedance form and related boundary value problems</h2>
 <h3>Abigail G. M\'arquez-Hern\'andez, V\'ictor A. Vicente-Ben\'itez</h3>
 <p>arXiv:2601.04513v1 Announce Type: new 
