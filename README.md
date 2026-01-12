@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 11, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for January 12, 2026 (1 Articles)</h1>
 <h2>Cedalion Tutorial: A Python-based framework for comprehensive analysis of multimodal fNIRS & DOT from the lab to the everyday world</h2>
 <h3>E. Middell, L. Carlton, S. Moradi, T. Codina, T. Fischer, J. Cutler, S. Kelley, J. Behrendt, T. Dissanayake, N. Harmening, M. A. Y\"ucel, D. A. Boas, A. von L\"uhmann</h3>
 <p>arXiv:2601.05923v1 Announce Type: cross 
