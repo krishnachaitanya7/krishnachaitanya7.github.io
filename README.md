@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 12, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for January 13, 2026 (2 Articles)</h1>
 <h2>A Nomizu-van Est theorem in Ekedahl's derived $\ell$-adic setting</h2>
 <h3>Olivier Ta\"ibi</h3>
 <p>arXiv:2209.09744v2 Announce Type: replace 
