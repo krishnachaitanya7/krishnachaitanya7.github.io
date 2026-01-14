@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 13, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for January 14, 2026 (1 Articles)</h1>
 <h2>Neural Correction Operator: A Reliable and Fast Approach for Electrical Impedance Tomography</h2>
 <h3>Amit Bhat, Ke Chen, Chunmei Wang</h3>
 <p>arXiv:2507.18875v2 Announce Type: replace 
