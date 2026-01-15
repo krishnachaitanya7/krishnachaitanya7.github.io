@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 14, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for January 15, 2026 (1 Articles)</h1>
 <h2>Sherman-Takeda type theorems for locally C*-algebras</h2>
 <h3>Lav Kumar Singh, Aljo\v{s}a Peperko</h3>
 <p>arXiv:2601.00717v2 Announce Type: replace 
