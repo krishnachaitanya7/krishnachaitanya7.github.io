@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 18, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for January 19, 2026 (2 Articles)</h1>
 <h2>Bifurcation Analysis of a Predator-Prey Model with Allee Effect and Cooperative Hunting</h2>
 <h3>Yujie Gao, Ton Viet Ta</h3>
 <p>arXiv:2601.10739v1 Announce Type: new 
