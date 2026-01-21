@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 20, 2026 (9 Articles)</h1>
+<h1>Your arXiv Feed for January 21, 2026 (9 Articles)</h1>
 <h2>Discrete-Time Optimal Control of Species Augmentation for Predator-Prey Model</h2>
 <h3>Munkaila Dasumani, Suzanne Lenhart, Gladys K. Onyambu, Stephen E. Moore</h3>
 <p>arXiv:2601.13394v1 Announce Type: new 
