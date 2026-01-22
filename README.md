@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 21, 2026 (5 Articles)</h1>
+<h1>Your arXiv Feed for January 22, 2026 (5 Articles)</h1>
 <h2>Helmholtz transmission problem and intrinsic impedance scattering problem on extension domains</h2>
 <h3>Gabriel Claret (MICS)</h3>
 <p>arXiv:2601.14866v1 Announce Type: new 
