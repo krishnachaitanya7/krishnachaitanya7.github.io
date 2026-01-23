@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 22, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for January 23, 2026 (3 Articles)</h1>
 <h2>On the effects of protection zone and directed population flux in prey-predator dynamics</h2>
 <h3>Kousuke Kuto, Kazuhiro Oeda</h3>
 <p>arXiv:2601.05054v2 Announce Type: replace 
