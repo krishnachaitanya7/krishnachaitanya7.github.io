@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 25, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for January 26, 2026 (3 Articles)</h1>
 <h2>Ekedahl-Oort types of stable curves</h2>
 <h3>Du\v{s}an Dragutinovi\'c</h3>
 <p>arXiv:2307.13445v3 Announce Type: replace 
