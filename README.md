@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 26, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for January 27, 2026 (4 Articles)</h1>
 <h2>(Mis-)Informed Consent: Predatory Apps and the Exploitation of Populations with Limited Literacy</h2>
 <h3>Muhammad Muneeb Pervez, Muhammad Qasim Atiq Ullah, Ibrahim Ahmed Khan, Roshnik Rahat, Muhammad Fareed Zaffar, Rashid Tahir, Talal Rahwan, Yasir Zaki</h3>
 <p>arXiv:2601.17025v1 Announce Type: new 
