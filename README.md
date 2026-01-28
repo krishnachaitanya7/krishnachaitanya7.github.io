@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 27, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for January 27, 2026 (5 Articles)</h1>
 <h2>(Mis-)Informed Consent: Predatory Apps and the Exploitation of Populations with Limited Literacy</h2>
 <h3>Muhammad Muneeb Pervez, Muhammad Qasim Atiq Ullah, Ibrahim Ahmed Khan, Roshnik Rahat, Muhammad Fareed Zaffar, Rashid Tahir, Talal Rahwan, Yasir Zaki</h3>
 <p>arXiv:2601.17025v1 Announce Type: new 
@@ -22,4 +22,10 @@ Abstract: The recent development of Kolmogorov-Arnold Networks (KANs) has found 
 <p>arXiv:2601.04478v2 Announce Type: replace-cross 
 Abstract: Bioelectrical properties of cells such as relative permittivity, conductivity, and characteristic time constants vary significantly between healthy and malignant cells across different frequencies. These distinctions provide a promising foundation for diagnostic and classification applications. This study systematically reviewed 33 scholarly articles to compile datasets of quantitative bioelectric parameters and evaluated their utility in predictive modeling. Three supervised machine learning algorithms- Random Forest (RF), Support Vector Machine (SVM), and K-Nearest Neighbor (KNN) were implemented and tuned using key hyperparameters to assess classification performance. Model effectiveness was evaluated using accuracy and F1 score as performance metrics. Results demonstrate that Random Forest achieved the highest predictive accuracy of ~ 90% when configured with a maximum depth of 4 and 100 estimators. These findings highlight the potential of integrating bioelectrical property analysis with machine learning for improved diagnostic decision-making. Similarly, for KNN and SVM, the F1 score peaked at approximately 78% and 76.5%, respectively. Future work will explore incorporating additional discriminative features, leveraging stimulated datasets, and optimizing hyperparameter through advanced search strategies. Ultimately, hardware prototype with embedded micro-electrodes and real-time control systems could pave the path for practical diagnostic tools capable of in-situ cell classification.</p>
 <a href='https://arxiv.org/abs/2601.04478'>ArXiv Link</a>
+
+<h2>A penalized heteroskedastic ordered probit model for DIF (measurement invariance) testing of single-item assessments in cross-cultural research</h2>
+<h3>R Noah Padgett</h3>
+<p>arXiv:2601.18889v1 Announce Type: new 
+Abstract: Differential item functioning (DIF) or measurement invariance (MI) testing for single-item assessments has previously been impossible. Part of the issue is that there are no conditioning variables to serve as a proxy for the latent variable--regression-based DIF methods. Another reason is that factor-analytic approaches require multiple items to estimate parameters. In this technical working paper, I propose an approach for evaluating DIF/MI in a single-item assessment of a construct. The current methods should NOT replace using multiple-indicator MG-CFA/IRT analyses of DIF/MI or regression mased methods when possible. More items generally provide significantly better construct coverage and provide more rigorous DIF/MI evaluation.</p>
+<a href='https://arxiv.org/abs/2601.18889'>ArXiv Link</a>
 
