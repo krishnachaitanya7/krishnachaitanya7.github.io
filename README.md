@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 28, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for January 29, 2026 (1 Articles)</h1>
 <h2>Partial heteroscedastic deconvolution estimation in nonparametric regression</h2>
 <h3>Baba Thiam (LPP)</h3>
 <p>arXiv:2601.20341v1 Announce Type: new 
