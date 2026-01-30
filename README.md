@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for January 29, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for January 30, 2026 (1 Articles)</h1>
 <h2>Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination</h2>
 <h3>Mengqi Chen, Thomas B. Berrett, Theodoros Damoulas, Michele Caprio</h3>
 <p>arXiv:2601.21324v1 Announce Type: cross 
