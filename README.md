@@ -1,7 +1,7 @@
 <h1>Your arXiv Feed for January 29, 2026 (1 Articles)</h1>
-<h2>Partial heteroscedastic deconvolution estimation in nonparametric regression</h2>
-<h3>Baba Thiam (LPP)</h3>
-<p>arXiv:2601.20341v1 Announce Type: new 
-Abstract: In this paper, we consider a partial deconvolution kernel estimator for nonparametric regression when some covariates are measured with error while others are observed without error. We focus on a general and realistic setting in which the measurement errors are heteroscedastic. We propose a kernel-based estimator of the regression function in this framework and show that it achieves the optimal convergence rate under suitable regularity conditions. The finite-sample performance of the proposed estimator is illustrated through simulation studies.</p>
-<a href='https://arxiv.org/abs/2601.20341'>ArXiv Link</a>
+<h2>Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination</h2>
+<h3>Mengqi Chen, Thomas B. Berrett, Theodoros Damoulas, Michele Caprio</h3>
+<p>arXiv:2601.21324v1 Announce Type: cross 
+Abstract: Distributionally robust optimisation (DRO) minimises the worst-case expected loss over an ambiguity set that can capture distributional shifts in out-of-sample environments. While Huber (linear-vacuous) contamination is a classical minimal-assumption model for an $\varepsilon$-fraction of arbitrary perturbations, including it in an ambiguity set can make the worst-case risk infinite and the DRO objective vacuous unless one imposes strong boundedness or support assumptions. We address these challenges by introducing bulk-calibrated credal ambiguity sets: we learn a high-mass bulk set from data while considering contamination inside the bulk and bounding the remaining tail contribution separately. This leads to a closed-form, finite $\mathrm{mean}+\sup$ robust objective and tractable linear or second-order cone programs for common losses and bulk geometries. Through this framework, we highlight and exploit the equivalence between the imprecise probability (IP) notion of upper expectation and the worst-case risk, demonstrating how IP credal sets translate into DRO objectives with interpretable tolerance levels. Experiments on heavy-tailed inventory control, geographically shifted house-price regression, and demographically shifted text classification show competitive robustness-accuracy trade-offs and efficient optimisation times, using Bayesian, frequentist, or empirical reference distributions.</p>
+<a href='https://arxiv.org/abs/2601.21324'>ArXiv Link</a>
 
