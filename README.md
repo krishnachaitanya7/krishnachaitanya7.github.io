@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 01, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for February 02, 2026 (4 Articles)</h1>
 <h2>LEAP -- Live Experiments for Active Pedagogy</h2>
 <h3>Sumedh Karajagi, Sampad Bhusan Mohanty, Bhaskar Krishnamachari</h3>
 <p>arXiv:2601.22534v1 Announce Type: new 
