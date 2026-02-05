@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 04, 2026 (5 Articles)</h1>
+<h1>Your arXiv Feed for February 05, 2026 (5 Articles)</h1>
 <h2>When Do Credal Sets Stabilize? Fixed-Point Theorems for Credal Set Updates</h2>
 <h3>Michele Caprio, Siu Lun Chau, Krikamol Muandet</h3>
 <p>arXiv:2510.04769v2 Announce Type: replace-cross 
