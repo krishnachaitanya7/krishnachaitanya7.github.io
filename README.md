@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 05, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for February 06, 2026 (2 Articles)</h1>
 <h2>Full-Covariance Chemical Langevin Predator--Prey Diffusion with Absorbing Boundaries</h2>
 <h3>Jiguang Yu, Louis Shuo Wang, Yuansheng Gao, Ye Liang</h3>
 <p>arXiv:2602.05336v1 Announce Type: new 
