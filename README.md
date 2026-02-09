@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 08, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for February 09, 2026 (3 Articles)</h1>
 <h2>Robust Bayesian estimation in conditionally heteroscedastic time series models</h2>
 <h3>Jeongho Lee, Junmo Song</h3>
 <p>arXiv:2602.06360v1 Announce Type: new 
