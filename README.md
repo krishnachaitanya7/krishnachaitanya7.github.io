@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 09, 2026 (9 Articles)</h1>
+<h1>Your arXiv Feed for February 10, 2026 (9 Articles)</h1>
 <h2>Ekedahl-Oort Types and Newton Polygons of Abelian Covers of $\mathbf{P}^1$ Branched at Three Points</h2>
 <h3>Darren Schmidt</h3>
 <p>arXiv:2602.07693v1 Announce Type: new 
