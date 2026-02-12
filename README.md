@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 11, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for February 12, 2026 (4 Articles)</h1>
 <h2>Co-jump: Cooperative Jumping with Quadrupedal Robots via Multi-Agent Reinforcement Learning</h2>
 <h3>Shihao Dong, Yeke Chen, Zeren Luo, Jiahui Zhang, Bowen Xu, Jinghan Lin, Yimin Han, Ji Ma, Zhiyou Yu, Yudong Zhao, Peng Lu</h3>
 <p>arXiv:2602.10514v1 Announce Type: new 
