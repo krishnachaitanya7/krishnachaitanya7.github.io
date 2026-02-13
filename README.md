@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 12, 2026 (6 Articles)</h1>
+<h1>Your arXiv Feed for February 13, 2026 (6 Articles)</h1>
 <h2>Ekedahl-Oort types of $\mathbb{Z}/2\mathbb{Z}$-covers in characteristic $2$</h2>
 <h3>Jeremy Booher, Steven R. Groen, Joe Kramer-Miller</h3>
 <p>arXiv:2511.02733v2 Announce Type: replace 
