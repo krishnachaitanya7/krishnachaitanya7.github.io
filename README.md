@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 15, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for February 16, 2026 (3 Articles)</h1>
 <h2>SoK: Understanding the Pedagogical, Health, Ethical, and Privacy Challenges of Extended Reality in Early Childhood Education</h2>
 <h3>Supriya Khadka, Sanchari Das</h3>
 <p>arXiv:2602.12749v1 Announce Type: new 
