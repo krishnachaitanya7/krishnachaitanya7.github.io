@@ -1,1 +1,19 @@
-<h1>Your arXiv Feed for February 15, 2026 (0 Articles)</h1>
+<h1>Your arXiv Feed for February 15, 2026 (3 Articles)</h1>
+<h2>SoK: Understanding the Pedagogical, Health, Ethical, and Privacy Challenges of Extended Reality in Early Childhood Education</h2>
+<h3>Supriya Khadka, Sanchari Das</h3>
+<p>arXiv:2602.12749v1 Announce Type: new 
+Abstract: Extended Reality (XR) combines dense sensing, real-time rendering, and close-range interaction, making its use in early childhood education both promising and high risk. To investigate this, we conduct a Systematization of Knowledge (SoK) of 111 peer-reviewed studies with children aged 3-8, quantifying how technical, pedagogical, health, privacy, and equity challenges arise in practice. We found that AR dominates the landscape (73%), focusing primarily on tablets or phones, while VR remains uncommon and typically relies on head mounted displays (HMDs). We integrate these quantitative patterns into a joint risk and attention matrix and an Augmented Human Development (AHD) model that link XR pipeline properties to cognitive load, sensory conflict, and access inequity. Finally, implementing a seven dimension coding scheme on a 0 - 2 scale, we obtain mean scholarly attention scores of 1.56 for pedagogy, 1.04 for privacy (primarily procedural consent), 0.96 for technical reliability, 0.92 for accessibility in low resource contexts, 0.81 for medical and health issues, 0.52 for accessibility for disabilities, and 0.14 for data security practices. This indicates that pedagogy receives the most systematic scrutiny, while data access practices is largely overlooked. We conclude by offering a roadmap for Child-Centered XR that helps HCI researchers and educators move beyond novelty to design systems that are developmentally aligned, secure by default, and accessible to diverse learners.</p>
+<a href='https://arxiv.org/abs/2602.12749'>ArXiv Link</a>
+
+<h2>VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks</h2>
+<h3>David R. Johnson, Alexander Sietsema, Rishabh Anand, Deanna Needell, Smita Krishnaswamy, Michael Perlmutter</h3>
+<p>arXiv:2510.01022v2 Announce Type: replace 
+Abstract: We introduce vector diffusion wavelets (VDWs), a novel family of wavelets inspired by the vector diffusion maps algorithm that was introduced to analyze data lying in the tangent bundle of a Riemannian manifold. We show that these wavelets may be effectively incorporated into a family of geometric graph neural networks, which we refer to as VDW-GNNs. We demonstrate that such networks are effective on synthetic point cloud data, as well as on real-world data derived from wind-field measurements and neural activity data. Theoretically, we prove that these new wavelets have desirable frame theoretic properties, similar to traditional diffusion wavelets. Additionally, we prove that these wavelets have desirable symmetries with respect to rotations and translations.</p>
+<a href='https://arxiv.org/abs/2510.01022'>ArXiv Link</a>
+
+<h2>A new mixture model for spatiotemporal exceedances with flexible tail dependence</h2>
+<h3>Ryan Li, Brian J. Reich, Emily C. Hector, Reetam Majumder</h3>
+<p>arXiv:2602.13158v1 Announce Type: new 
+Abstract: We propose a new model and estimation framework for spatiotemporal streamflow exceedances above a threshold that flexibly captures asymptotic dependence and independence in the tail of the distribution. We model streamflow using a mixture of processes with spatial, temporal and spatiotemporal asymptotic dependence regimes. A censoring mechanism allows us to use only observations above a threshold to estimate marginal and joint probabilities of extreme events. As the likelihood is intractable, we use simulation-based inference powered by random forests to estimate model parameters from summary statistics of the data. Simulations and modeling of streamflow data from the U.S. Geological Survey illustrate the feasibility and practicality of our approach.</p>
+<a href='https://arxiv.org/abs/2602.13158'>ArXiv Link</a>
+
