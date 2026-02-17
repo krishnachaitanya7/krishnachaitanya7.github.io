@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 16, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for February 17, 2026 (3 Articles)</h1>
 <h2>Towards Dynamic Quadrupedal Gaits: A Symmetry-Guided RL Hierarchy Enables Free Gait Transitions at Varying Speeds</h2>
 <h3>Jiayu Ding, Xulin Chen, Garret E. Katz, Zhenyu Gan</h3>
 <p>arXiv:2403.10723v4 Announce Type: replace 
