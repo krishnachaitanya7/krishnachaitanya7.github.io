@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 17, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for February 18, 2026 (2 Articles)</h1>
 <h2>Total variation regularization with reduced basis in electrical impedance tomography</h2>
 <h3>A. Hannukainen, N. Hyv\"onen, V. Toresen</h3>
 <p>arXiv:2602.15399v1 Announce Type: new 
