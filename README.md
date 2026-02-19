@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 18, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for February 19, 2026 (2 Articles)</h1>
 <h2>Hardware-accelerated graph neural networks: an alternative approach for neuromorphic event-based audio classification and keyword spotting on SoC FPGA</h2>
 <h3>Kamil Jeziorek, Piotr Wzorek, Krzysztof Blachut, Hiroshi Nakano, Manon Dampfhoffer, Thomas Mesquida, Hiroaki Nishi, Thomas Dalgaty, Tomasz Kryjak</h3>
 <p>arXiv:2602.16442v1 Announce Type: new 
