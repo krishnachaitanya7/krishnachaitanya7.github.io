@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 19, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for February 20, 2026 (2 Articles)</h1>
 <h2>Adaptive Step Duration for Accurate Foot Placement: Achieving Robust Bipedal Locomotion on Terrains with Restricted Footholds</h2>
 <h3>Zhaoyang Xiang, Victor Paredes, Guillermo A. Castillo, Ayonga Hereid</h3>
 <p>arXiv:2403.17136v3 Announce Type: replace 
