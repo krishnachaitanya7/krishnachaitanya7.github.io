@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 22, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for February 23, 2026 (4 Articles)</h1>
 <h2>A Carleman Semi-Discrete Convexification Method Combined With Deep Learning for Electrical Impedance Tomography</h2>
 <h3>Michael V. Klibanov, Kirill V. Golubnichiy, Benjamin Jiang</h3>
 <p>arXiv:2602.18001v1 Announce Type: new 
