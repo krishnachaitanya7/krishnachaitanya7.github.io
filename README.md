@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 23, 2026 (6 Articles)</h1>
+<h1>Your arXiv Feed for February 24, 2026 (6 Articles)</h1>
 <h2>Synthetic Media in Multilingual MOOCs: Deepfake Tutors, Pedagogical Effects, and Ethical-Policy Challenges</h2>
 <h3>Alexandros Gazis, Erietta Chamalidou, Nikolaos Ntaoulas, Theodoros Vavouras</h3>
 <p>arXiv:2602.18457v1 Announce Type: new 
