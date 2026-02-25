@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 24, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for February 25, 2026 (2 Articles)</h1>
 <h2>A Generalized Apprenticeship Learning Framework for Capturing Evolving Student Pedagogical Strategies</h2>
 <h3>Md Mirajul Islam, Xi Yang, Adittya Soukarjya Saha, Rajesh Debnath, Min Chi</h3>
 <p>arXiv:2602.20527v1 Announce Type: new 
