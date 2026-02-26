@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 25, 2026 (5 Articles)</h1>
+<h1>Your arXiv Feed for February 26, 2026 (5 Articles)</h1>
 <h2>The Influence of Exclusion Zones on the Coexistence of Predator and Prey with an Allee Effect</h2>
 <h3>Henri Berestycki, William F. Fagan, Alex Safsten</h3>
 <p>arXiv:2602.21414v1 Announce Type: new 
