@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for February 26, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for February 27, 2026 (4 Articles)</h1>
 <h2>Beyond Diagonal Noise: A Better Predator-Prey Modeling Framework with Cross-Covariance</h2>
 <h3>Jiguang Yu, Louis Shuo Wang</h3>
 <p>arXiv:2602.22489v1 Announce Type: cross 
