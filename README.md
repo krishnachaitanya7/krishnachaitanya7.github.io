@@ -1,1 +1,19 @@
-<h1>Your arXiv Feed for March 01, 2026 (0 Articles)</h1>
+<h1>Your arXiv Feed for March 01, 2026 (3 Articles)</h1>
+<h2>Moment Matters: Mean and Variance Causal Graph Discovery from Heteroscedastic Observational Data</h2>
+<h3>Yoichi Chikahara</h3>
+<p>arXiv:2602.23602v1 Announce Type: cross 
+Abstract: Heteroscedasticity -- where the variance of a variable changes with other variables -- is pervasive in real data, and elucidating why it arises from the perspective of statistical moments is crucial in scientific knowledge discovery and decision-making. However, standard causal discovery does not reveal which causes act on the mean versus the variance, as it returns a single moment-agnostic graph, limiting interpretability and downstream intervention design. We propose a Bayesian, moment-driven causal discovery framework that infers separate \textit{mean} and \textit{variance} causal graphs from observational heteroscedastic data. We first derive the identification results by establishing sufficient conditions under which these two graphs are separately identifiable. Building on this theory, we develop a variational inference method that learns a posterior distribution over both graphs, enabling principled uncertainty quantification of structural features (e.g., edges, paths, and subgraphs). To address the challenges of parameter optimization in heteroscedastic models with two graph structures, we take a curvature-aware optimization approach and develop a prior incorporation technique that leverages domain knowledge on node orderings, improving sample efficiency. Experiments on synthetic, semi-synthetic, and real data show that our approach accurately recovers mean and variance structures and outperforms state-of-the-art baselines.</p>
+<a href='https://arxiv.org/abs/2602.23602'>ArXiv Link</a>
+
+<h2>Efficient Tests for Testing in Two-way ANOVA under Heteroscedasticity</h2>
+<h3>Anjana Mondal, Somesh Kumar</h3>
+<p>arXiv:2602.23815v1 Announce Type: new 
+Abstract: New tests are developed for two-way ANOVA models with heterogeneous error variances. The testing problems are considered for testing the significant interaction effects, simple effects, and treatment effects. The likelihood ratio tests (LRTs) and simultaneous comparison tests are derived for all three problems. Hill climbing algorithms have been proposed to compute the maximum likelihood estimators (MLEs) of parameters under the restrictions on the null and alternative hypotheses. It is proved that the proposed algorithms converge to the MLEs. A parametric bootstrap algorithm is provided for the computation of the critical points. The simulated power values of the proposed tests are compared with two existing tests. For testing main effects in the additive ANOVA model, the LRT appears to be about $30\%$ to $50\%$ gain in power over the available tests. Also, the proposed tests for the interaction and simple effects are seen to have comparable power and size performance to the existing tests. The behavior of the proposed tests under the non-normal error distribution is also discussed. Four real data sets are used to demonstrate the application of the proposed tests. A software package is made in `R' to make it simple to apply the tests to experimental data sets.</p>
+<a href='https://arxiv.org/abs/2602.23815'>ArXiv Link</a>
+
+<h2>The Best Metal-Grabbing Games Ever: How a Tiny Nation Won the Most Medals (By Far)</h2>
+<h3>Nils Lid Hjort</h3>
+<p>arXiv:2602.24004v1 Announce Type: new 
+Abstract: For three Winter Olympics in a row, tiny nation Norway has out-medalled everyone else, in 2026 winning 18 golds, 12 silvers, 11 bronzes, i.e.~41 medals, compared to e.g.~12 + 12 + 9 = 33 for the USA, 10 + 6 + 14 = 30 for home team Italy, 8 + 10 + 7 = 26 for powerhouse Germany, etc. Never before have we [pluralis proudiensis] or anyone else won as many as 41 medals at a Winter Olympics. But how impressive is this, really, when we factor in that the number of events has increased so drastically?</p>
+<a href='https://arxiv.org/abs/2602.24004'>ArXiv Link</a>
+
