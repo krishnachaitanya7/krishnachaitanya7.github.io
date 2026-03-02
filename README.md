@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 01, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for March 02, 2026 (3 Articles)</h1>
 <h2>Moment Matters: Mean and Variance Causal Graph Discovery from Heteroscedastic Observational Data</h2>
 <h3>Yoichi Chikahara</h3>
 <p>arXiv:2602.23602v1 Announce Type: cross 
