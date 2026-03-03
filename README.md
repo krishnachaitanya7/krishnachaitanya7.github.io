@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 02, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for March 03, 2026 (4 Articles)</h1>
 <h2>Practical Deep Heteroskedastic Regression</h2>
 <h3>Mikkel Jordahn, Jonas Vestergaard Jensen, James Harrison, Michael Riis Andersen, Mikkel N. Schmidt</h3>
 <p>arXiv:2603.01750v1 Announce Type: new 
