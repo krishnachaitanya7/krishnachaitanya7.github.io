@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 03, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for March 04, 2026 (3 Articles)</h1>
 <h2>A pedagogical approach to the black hole information issue</h2>
 <h3>Thiago T. Bergamaschi</h3>
 <p>arXiv:2505.17164v4 Announce Type: replace-cross 
