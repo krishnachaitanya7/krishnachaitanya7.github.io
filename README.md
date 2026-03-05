@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 04, 2026 (6 Articles)</h1>
+<h1>Your arXiv Feed for March 05, 2026 (6 Articles)</h1>
 <h2>Steady State Distribution and Stability Analysis of Random Differential Equations with Uncertainties and Superpositions: Application to a Predator Prey Model</h2>
 <h3>Wolfgang Hoegele</h3>
 <p>arXiv:2603.03845v1 Announce Type: new 
