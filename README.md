@@ -1,1 +1,13 @@
-<h1>Your arXiv Feed for March 08, 2026 (0 Articles)</h1>
+<h1>Your arXiv Feed for March 08, 2026 (2 Articles)</h1>
+<h2>Belief-Adaptive MAP Detection for Molecular ISI Channels with Heteroscedastic Noise</h2>
+<h3>Erencem Ozbey, H. Birkan Yilmaz, Chan-Byoung Chae</h3>
+<p>arXiv:2603.06304v1 Announce Type: new 
+Abstract: Inter-symbol interference (ISI) with heteroscedastic, or state-dependent, noise is a defining feature of molecular communication via diffusion (MCvD). However, such noise variance dependency across ISI states has not been systematically considered in prior detector designs. This letter introduces two decoding mechanisms, Belief-Adaptive Maximum A Posteriori (BA-MAP) and Soft BA-MAP, that explicitly incorporate state-dependent means and variances of the molecular count channel. The BA-MAP method derives per-symbol adaptive MAP thresholds based on the receiver's current state beliefs, whereas the Soft BA-MAP approach computes mixture log-likelihood ratios by weighting all possible ISI states. Simulation and information-theoretic analyses confirm that the proposed detectors outperform conventional equalization and fixed-threshold methods, achieving up to 100% throughput improvement under realistic MCvD settings.</p>
+<a href='https://arxiv.org/abs/2603.06304'>ArXiv Link</a>
+
+<h2>Bridging MOOCs, Smart Teaching, and AI: A Decade of Evolution Toward a Unified Pedagogy</h2>
+<h3>Bo Yuan, Jiazi Hu</h3>
+<p>arXiv:2507.14266v2 Announce Type: replace 
+Abstract: Over the past decade, higher education has undergone successive shifts driven by three major developments: Massive Open Online Courses (MOOCs), Smart Teaching technologies, and AI-enhanced learning. Each paradigm emerged to address specific limitations of traditional education: MOOCs enable ubiquitous access to learning resources; Smart Teaching supports real-time interaction with data-driven insights; and generative AI offers scalable personalization and on-demand content generation. However, these paradigms are often adopted in isolation, limiting their systemic pedagogical potential. This paper proposes a unified instructional framework that integrates these approaches under a coherent teaching-driven logic. The framework distinguishes three complementary dimensions of instructional design: structured exposure (MOOCs), adaptive allocation (Smart Teaching), and efficiency amplification (AI). To operationalize this integration, we formalize the framework as a layered knowledge transformation model and illustrate its behavior through a step-by-step learning example. The results demonstrate how each layer contributes to measurable and functionally distinct gains in knowledge mastery.</p>
+<a href='https://arxiv.org/abs/2507.14266'>ArXiv Link</a>
+
