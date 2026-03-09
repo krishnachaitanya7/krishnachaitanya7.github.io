@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 08, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for March 09, 2026 (2 Articles)</h1>
 <h2>Belief-Adaptive MAP Detection for Molecular ISI Channels with Heteroscedastic Noise</h2>
 <h3>Erencem Ozbey, H. Birkan Yilmaz, Chan-Byoung Chae</h3>
 <p>arXiv:2603.06304v1 Announce Type: new 
