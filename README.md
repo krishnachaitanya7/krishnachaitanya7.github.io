@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 09, 2026 (7 Articles)</h1>
+<h1>Your arXiv Feed for March 10, 2026 (7 Articles)</h1>
 <h2>Supersingular Ekedahl-Oort strata and Oort's conjecture</h2>
 <h3>Valentijn Karemaker, Chia-Fu Yu</h3>
 <p>arXiv:2406.19748v3 Announce Type: replace 
