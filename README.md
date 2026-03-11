@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 10, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for March 11, 2026 (4 Articles)</h1>
 <h2>Predictive Control with Indirect Adaptive Laws for Payload Transportation by Quadrupedal Robots</h2>
 <h3>Leila Amanzadeh, Taizoon Chunawala, Randall T. Fawcett, Alexander Leonessa, Kaveh Akbari Hamed</h3>
 <p>arXiv:2603.08831v1 Announce Type: new 
