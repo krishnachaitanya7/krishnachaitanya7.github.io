@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 11, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for March 12, 2026 (1 Articles)</h1>
 <h2>Dynamic Modeling and Attitude Control of a Reaction-Wheel-Based Low-Gravity Bipedal Hopper</h2>
 <h3>Shriram Hari, M Venkata Sai Nikhil, R Prasanth Kumar</h3>
 <p>arXiv:2603.10670v1 Announce Type: new 
