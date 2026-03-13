@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 12, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for March 13, 2026 (3 Articles)</h1>
 <h2>A technology-oriented mapping of the language and translation industry: Analysing stakeholder values and their potential implication for translation pedagogy</h2>
 <h3>Mar\'ia Isabel Rivas Ginel, Jani\c{c}a Hackenbuchner, Alina Secar\u{a}, Ralph Kr\"uger, Caroline Rossi</h3>
 <p>arXiv:2603.11667v1 Announce Type: new 
