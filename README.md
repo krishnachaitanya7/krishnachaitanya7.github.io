@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 15, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for March 16, 2026 (4 Articles)</h1>
 <h2>Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback</h2>
 <h3>Mei Tan, Lena Phalen, Dorottya Demszky</h3>
 <p>arXiv:2603.12471v1 Announce Type: new 
