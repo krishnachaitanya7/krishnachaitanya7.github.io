@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 16, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for March 17, 2026 (4 Articles)</h1>
 <h2>An Empirical Bayes Perspective on Heteroskedastic Mean Estimation</h2>
 <h3>Yanjun Han, Abhishek Shetty, Jacob Shkrob</h3>
 <p>arXiv:2603.13499v1 Announce Type: new 
