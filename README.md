@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 17, 2026 (7 Articles)</h1>
+<h1>Your arXiv Feed for March 18, 2026 (7 Articles)</h1>
 <h2>Wavenumber-explicit analytic regularity of the heterogeneous Maxwell equations with impedance boundary conditions</h2>
 <h3>Jens Markus Melenk, David W\"org\"otter</h3>
 <p>arXiv:2603.16334v1 Announce Type: new 
