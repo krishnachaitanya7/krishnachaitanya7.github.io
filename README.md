@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for March 18, 2026 (5 Articles)</h1>
+<h1>Your arXiv Feed for March 19, 2026 (5 Articles)</h1>
 <h2>Wavenumber-explicit $hp$-FEM analysis of Maxwell's equations with impedance boundary conditions in piecewise smooth media</h2>
 <h3>Jens Markus Melenk, David W\"org\"otter</h3>
 <p>arXiv:2603.17467v1 Announce Type: new 
