@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 06, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for April 07, 2026 (4 Articles)</h1>
 <h2>CIPHR: Cryptography Inspired IP Protection through Fine-Grain Hardware Redaction</h2>
 <h3>Aritra Dasgupta, Sudipta Paria, Swarup Bhunia</h3>
 <p>arXiv:2604.03560v1 Announce Type: new 
