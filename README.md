@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 07, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for April 08, 2026 (2 Articles)</h1>
 <h2>Local Optimality of Dictator Functions with Applications to Courtade--Kumar and Li--M\'edard Conjectures</h2>
 <h3>Lei Yu</h3>
 <p>arXiv:2410.10147v5 Announce Type: replace 
