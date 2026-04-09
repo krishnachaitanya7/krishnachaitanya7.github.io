@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 08, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for April 09, 2026 (2 Articles)</h1>
 <h2>Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning</h2>
 <h3>Navan Preet Singh, Xiaokun Wang, Anurag Garikipati, Madalina Ciobanu, Qingqing Mao, Ritankar Das</h3>
 <p>arXiv:2604.06385v1 Announce Type: new 
