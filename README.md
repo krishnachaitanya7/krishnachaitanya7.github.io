@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 09, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for April 10, 2026 (4 Articles)</h1>
 <h2>Dynamics of a Predator-Prey Model with Allee Effect and Interspecific Competition</h2>
 <h3>Lina Peng, Jianhang Xie</h3>
 <p>arXiv:2604.08132v1 Announce Type: new 
