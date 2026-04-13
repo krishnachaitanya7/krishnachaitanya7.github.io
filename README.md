@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 12, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for April 13, 2026 (3 Articles)</h1>
 <h2>Toward Hardware-Agnostic Quadrupedal World Models via Morphology Conditioning</h2>
 <h3>Mohamad H. Danesh, Chenhao Li, Amin Abyaneh, Anas Houssaini, Kirsty Ellis, Glen Berseth, Marco Hutter, Hsiu-Chin Lin</h3>
 <p>arXiv:2604.08780v1 Announce Type: new 
