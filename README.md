@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 13, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for April 14, 2026 (4 Articles)</h1>
 <h2>Trends in tail dependence of heteroscedastic extremes</h2>
 <h3>John H. J. Einmahl, Chen Zhou</h3>
 <p>arXiv:2604.11335v1 Announce Type: new 
