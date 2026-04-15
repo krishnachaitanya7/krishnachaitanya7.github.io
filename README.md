@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 14, 2026 (9 Articles)</h1>
+<h1>Your arXiv Feed for April 15, 2026 (9 Articles)</h1>
 <h2>Stably Determining a generalised Impedance Obstacle from a Single Far-Field Pattern</h2>
 <h3>Huaian Diao, Hongyu Liu, Longyue Tao</h3>
 <p>arXiv:2604.12835v1 Announce Type: new 
