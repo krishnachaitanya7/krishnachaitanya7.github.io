@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 15, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for April 16, 2026 (3 Articles)</h1>
 <h2>Modal Exchangeability: Centered Symmetry and the Credal Architecture of Kripke Frames</h2>
 <h3>Daniel Zantedeschi</h3>
 <p>arXiv:2603.27547v2 Announce Type: replace 
