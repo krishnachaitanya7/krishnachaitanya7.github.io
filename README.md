@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 16, 2026 (5 Articles)</h1>
+<h1>Your arXiv Feed for April 17, 2026 (5 Articles)</h1>
 <h2>Propagation dynamics for nonlocal dispersal predator-prey systems in shifting habitats: A Hamilton-Jacobi approach</h2>
 <h3>Wen Tao, Wan-Tong Li, Shigui Ruan, Wen-Bing Xu</h3>
 <p>arXiv:2604.14573v1 Announce Type: new 
