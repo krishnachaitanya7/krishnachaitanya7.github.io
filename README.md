@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 20, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for April 21, 2026 (2 Articles)</h1>
 <h2>Asymptotic stability and diffusion-driven pattern formation in a predator-prey system with two chemicals</h2>
 <h3>Gnanasekaran Shanmugasundaram, Jitraj Saha, Oluwole Daniel Makinde, Joydev Chattopadhyay</h3>
 <p>arXiv:2604.18129v1 Announce Type: new 
