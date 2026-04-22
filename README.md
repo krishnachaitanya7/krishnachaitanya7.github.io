@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 21, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for April 22, 2026 (2 Articles)</h1>
 <h2>Reinforcement Learning Enabled Adaptive Multi-Task Control for Bipedal Soccer Robots</h2>
 <h3>Yulai Zhang, Yinrong Zhang, Ting Wu, Linqi Ye</h3>
 <p>arXiv:2604.19104v1 Announce Type: new 
