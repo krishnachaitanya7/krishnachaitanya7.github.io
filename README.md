@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 22, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for April 23, 2026 (3 Articles)</h1>
 <h2>Generative Prior-Guided Neural Interface Reconstruction for 3D Electrical Impedance Tomography</h2>
 <h3>Haibo Liu, Junqing Chen, Guang Lin</h3>
 <p>arXiv:2505.16487v3 Announce Type: replace 
