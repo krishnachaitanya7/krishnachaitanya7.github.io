@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 26, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for April 27, 2026 (3 Articles)</h1>
 <h2>Signature of paraparticles: a minimal Gedankenexperiment</h2>
 <h3>Francesco Toppan</h3>
 <p>arXiv:2604.22178v1 Announce Type: cross 
