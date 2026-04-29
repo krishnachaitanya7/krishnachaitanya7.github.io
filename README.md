@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 28, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for April 29, 2026 (1 Articles)</h1>
 <h2>Intersections of the automorphism and the Ekedahl-Oort strata in $M_2$</h2>
 <h3>Alvaro Gonzalez-Hernandez</h3>
 <p>arXiv:2507.07278v2 Announce Type: replace 
