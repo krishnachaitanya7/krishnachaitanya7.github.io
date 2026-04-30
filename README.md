@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 29, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for April 30, 2026 (3 Articles)</h1>
 <h2>Multiscale Modeling for Time-harmonic Maxwell equations with impedance boundary conditions in highly heterogeneous media</h2>
 <h3>Xiang Zhong, Eric T. Chung, Xingguang Jin</h3>
 <p>arXiv:2604.26449v1 Announce Type: new 
