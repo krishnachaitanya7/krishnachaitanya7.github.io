@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for April 30, 2026 (5 Articles)</h1>
+<h1>Your arXiv Feed for May 01, 2026 (5 Articles)</h1>
 <h2>Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies</h2>
 <h3>Pokuang Zhou, Yuhao Zhou, Quan Luu, Seungho Han, Heng Zhang, Binghao Huang, Yunzhu Li, Arash Ajoudani, Zhengtong Xu, Yu She</h3>
 <p>arXiv:2604.27224v1 Announce Type: new 
