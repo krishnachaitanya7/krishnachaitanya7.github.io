@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 03, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for May 04, 2026 (1 Articles)</h1>
 <h2>Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education</h2>
 <h3>Juvy C. Grume, John Paul P. Miranda, Aileen P. De Leon, Jordan L. Salenga, Hilene E. Hernandez, Mark Anthony A. Castro, Vernon Grace M. Maniago, Joel D. Canlas, Joel B. Quiambao</h3>
 <p>arXiv:2605.00361v1 Announce Type: new 
