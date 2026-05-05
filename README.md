@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 04, 2026 (5 Articles)</h1>
+<h1>Your arXiv Feed for May 05, 2026 (5 Articles)</h1>
 <h2>Resampling-based multi-resolution false discovery exceedance control</h2>
 <h3>Jesse Hemerik</h3>
 <p>arXiv:2509.02376v2 Announce Type: replace-cross 
