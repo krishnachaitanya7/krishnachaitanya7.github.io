@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 05, 2026 (5 Articles)</h1>
+<h1>Your arXiv Feed for May 06, 2026 (5 Articles)</h1>
 <h2>Global Continuation of Stable Periodic Orbits in Systems of Competing Predators</h2>
 <h3>Kevin E. M. Church, Jia-Yuan Dai, Olivier H\'enot, Phillipo Lappicy, Nicola Vassena</h3>
 <p>arXiv:2504.03058v3 Announce Type: replace 
