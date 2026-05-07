@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 06, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for May 07, 2026 (1 Articles)</h1>
 <h2>Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking</h2>
 <h3>Franek Stark, Felix Wiebe, Shubham Vyas, Dennis Mronga, Frank Kirchner</h3>
 <p>arXiv:2605.04607v1 Announce Type: new 
