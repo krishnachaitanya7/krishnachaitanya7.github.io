@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 07, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for May 08, 2026 (2 Articles)</h1>
 <h2>The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking</h2>
 <h3>Hadi Hosseini</h3>
 <p>arXiv:2605.05472v1 Announce Type: new 
