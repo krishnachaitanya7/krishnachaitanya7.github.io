@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 10, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for May 11, 2026 (3 Articles)</h1>
 <h2>Convergence Rates for Latent Mixing Measures in Infinite Homoscedastic Location-Scale Mixture Models</h2>
 <h3>Nicola Bariletto, Dung Le, Alessandro Rinaldo, Nhat Ho</h3>
 <p>arXiv:2605.06845v1 Announce Type: new 
