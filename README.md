@@ -1,7 +1,1 @@
-<h1>Your arXiv Feed for May 15, 2026 (1 Articles)</h1>
-<h2>Quantifying Cyber-Vulnerability in Power Electronics Systems via an Impedance-Based Attack Reachable Domain</h2>
-<h3>Hongwei Zhen, Ze Yu, Xin Xiang, Wuhua Li, Mingyang Sun</h3>
-<p>arXiv:2605.14502v1 Announce Type: new 
-Abstract: Power electronics systems are increasingly exposed to cyber threats due to their integration with digital controllers and communication networks. However, an attacker-oriented metric is still lacking to quantify the extent to which a node can be pushed toward instability within a privilege-constrained action space. This letter proposes an impedance-based Attack Reachable Domain (ARD) framework that maps feasible adversarial actions to critical-eigenvalue migration through impedance reshaping. Based on the ARD, an Attack Penetration Index is defined to quantify node-level cyber-vulnerability by jointly characterizing the penetration of the nominal stability margin and the accessibility of successful destabilizing attacks within a privilege-constrained action space. To make the proposed assessment computable when inverter models are unavailable, a practical gray-box workflow is further established by integrating existing impedance identification and differentiable surrogate tools. Case studies on a 4-bus system and a modified IEEE 39-bus system show that coordinated cross-layer manipulations are markedly more damaging than isolated single-layer attacks, and that the proposed metric reveals vulnerability patterns that cannot be inferred from grid-strength indicators.</p>
-<a href='https://arxiv.org/abs/2605.14502'>ArXiv Link</a>
-
+<h1>Your arXiv Feed for May 15, 2026 (0 Articles)</h1>
