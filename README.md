@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 18, 2026 (6 Articles)</h1>
+<h1>Your arXiv Feed for May 19, 2026 (6 Articles)</h1>
 <h2>On the Periods of Ikeda-Yamana Lift for the Unitary Group I</h2>
 <h3>Jin Higashitani</h3>
 <p>arXiv:2605.18294v1 Announce Type: new 
