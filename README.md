@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 19, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for May 20, 2026 (3 Articles)</h1>
 <h2>Diffusion Graph Posterior Sampling for Nonlinear Inverse Problems with Application to Electrical Impedance Tomography</h2>
 <h3>Giovanni S. Alberti, Damiana Lazzaro, Serena Morigi, Matteo Santacesaria, Shibo Wang</h3>
 <p>arXiv:2605.19621v1 Announce Type: cross 
