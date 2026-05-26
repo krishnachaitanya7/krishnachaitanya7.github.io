@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 25, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for May 26, 2026 (1 Articles)</h1>
 <h2>Optimal Estimation of Discrete Multiview Distributions under Heteroskedastic Multinomial Sampling</h2>
 <h3>Runshi Tang, Julien Chhor, Olga Klopp, Alexandre B. Tsybakov, Anru R. Zhang</h3>
 <p>arXiv:2605.24858v1 Announce Type: new 
