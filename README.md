@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 26, 2026 (6 Articles)</h1>
+<h1>Your arXiv Feed for May 27, 2026 (6 Articles)</h1>
 <h2>Towards a generalized Maeda conjecture for modular forms with quadratic nebentypus</h2>
 <h3>Debargha Banerjee, Dhrubajyoti Das, Srijan Das, Tathagata Mandal, Sudipa Mondal</h3>
 <p>arXiv:2605.26771v1 Announce Type: new 
