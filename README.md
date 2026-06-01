@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for May 31, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for June 01, 2026 (4 Articles)</h1>
 <h2>Hecke Eigenvalues of Ikeda Lifts</h2>
 <h3>Nagarjuna Chary Addanki, Ameya Pitale</h3>
 <p>arXiv:2605.16083v2 Announce Type: replace 
