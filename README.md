@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for June 01, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for June 02, 2026 (2 Articles)</h1>
 <h2>What LLMs Must Forget to Teach Effectively: A DIY Approach to Premodern Japanese Language Pedagogy</h2>
 <h3>Ariel Stilerman, Andrew Nelson, Alan Cheng, Caleb Langley, Sera Wang, Camilla Piana, Pelin \c{C}{\i}lg{\i}n, Qianhe Qin, Teisha Nishimitsu, Liaoliao Zhang, Huiting Liu, Josh Eyre, Gavin Sherry</h3>
 <p>arXiv:2606.01410v1 Announce Type: new 
