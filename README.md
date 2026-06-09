@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for June 08, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for June 09, 2026 (4 Articles)</h1>
 <h2>The effect of predation on the dynamics of Chronic Wasting Disease in deer</h2>
 <h3>Cody E. FitzGerald, James P. Keener</h3>
 <p>arXiv:2509.00134v4 Announce Type: replace-cross 
