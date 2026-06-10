@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for June 09, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for June 10, 2026 (4 Articles)</h1>
 <h2>On the Ekedahl sieve for the singular locus of the discriminant polynomial</h2>
 <h3>Gaurav Digambar Patil</h3>
 <p>arXiv:2606.10523v1 Announce Type: new 
