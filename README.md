@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for June 10, 2026 (3 Articles)</h1>
+<h1>Your arXiv Feed for June 11, 2026 (3 Articles)</h1>
 <h2>RedAct: Redacting Agent Capability Traces for Procedural Skill Protection</h2>
 <h3>Shuwen Xu, Zhitao He, Yi R. Fung</h3>
 <p>arXiv:2606.10813v2 Announce Type: new 
