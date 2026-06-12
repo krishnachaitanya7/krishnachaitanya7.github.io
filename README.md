@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for June 11, 2026 (4 Articles)</h1>
+<h1>Your arXiv Feed for June 12, 2026 (4 Articles)</h1>
 <h2>Impedance MPC with Patient-Torque Estimation for Knee Rehabilitation Exoskeletons</h2>
 <h3>Yongyan Cao, Jinshan Tang</h3>
 <p>arXiv:2606.13485v1 Announce Type: new 
