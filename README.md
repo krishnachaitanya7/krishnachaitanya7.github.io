@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for June 14, 2026 (9 Articles)</h1>
+<h1>Your arXiv Feed for June 15, 2026 (9 Articles)</h1>
 <h2>Spreading speeds for prey--predator systems in a shifting environment: a short proof</h2>
 <h3>Zhucheng Jin</h3>
 <p>arXiv:2606.14059v1 Announce Type: new 
