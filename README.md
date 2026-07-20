@@ -1,1 +1,7 @@
-<h1>Your arXiv Feed for July 19, 2026 (0 Articles)</h1>
+<h1>Your arXiv Feed for July 19, 2026 (1 Articles)</h1>
+<h2>Passive Phase-Oriented Impedance Shaping for Rapid Acceleration in Soft Robotic Swimmers</h2>
+<h3>Qimin Feng, Orion A. Roberts, Qiang Zhong</h3>
+<p>arXiv:2603.03537v2 Announce Type: replace 
+Abstract: Rapid acceleration and burst maneuvers in underwater robots depend less on maintaining precise resonance and more on force--velocity phase alignment during thrust generation. In this work, we investigate constrained-layer damping (CLD) as a passive mechanism for frequency-selective impedance shaping in soft robotic swimmers. Unlike conventional stiffness-tuning approaches, CLD selectively amplifies the dissipative component of bending impedance while preserving storage stiffness, passively shifting the impedance composition toward dissipative dominance as actuation frequency increases. We characterize this behavior through dry impedance measurements, demonstrate that CLD enhances thrust and alters force--motion phase relationships across Strouhal numbers in constrained propulsion tests, and validate that passive impedance shaping yields a nearly five-fold increase in peak acceleration and a three-fold increase in terminal velocity in unconstrained swimming trials. These results establish phase-oriented passive impedance modulation as a simple, control-free pathway for improving transient propulsion in soft robotic systems.</p>
+<a href='https://arxiv.org/abs/2603.03537'>ArXiv Link</a>
+
