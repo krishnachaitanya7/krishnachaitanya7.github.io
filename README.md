@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for July 19, 2026 (1 Articles)</h1>
+<h1>Your arXiv Feed for July 20, 2026 (1 Articles)</h1>
 <h2>Passive Phase-Oriented Impedance Shaping for Rapid Acceleration in Soft Robotic Swimmers</h2>
 <h3>Qimin Feng, Orion A. Roberts, Qiang Zhong</h3>
 <p>arXiv:2603.03537v2 Announce Type: replace 
