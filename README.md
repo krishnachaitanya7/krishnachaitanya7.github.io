@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for July 20, 2026 (6 Articles)</h1>
+<h1>Your arXiv Feed for July 21, 2026 (6 Articles)</h1>
 <h2>On Mixtures of Three Homoscedastic Gaussian Densities: An Unconditional Sharper Bound on the Number of Modes</h2>
 <h3>Akifumi Okuno, Yutaro Kabata</h3>
 <p>arXiv:2607.17506v1 Announce Type: new 
