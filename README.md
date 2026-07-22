@@ -1,4 +1,4 @@
-<h1>Your arXiv Feed for July 21, 2026 (2 Articles)</h1>
+<h1>Your arXiv Feed for July 22, 2026 (2 Articles)</h1>
 <h2>ChemHyperMag: Physics-informed magnetic hypergraph learning improves molecular ADMET prediction</h2>
 <h3>Hexiao Ding, Hongzhao Chen, Jing Lan, Yufeng Jiang, Zihong Luo, Zehua Xiong, Tianlong Ruan, Yunlin Mao, Nga Chun Ng, Gwing Kei Yip, Gerald W. Y. Cheng, Kate Inyoung Oh, Jing Cai, Liang-Ting Lin, Jung Sun Yoo</h3>
 <p>arXiv:2607.18332v1 Announce Type: new 
