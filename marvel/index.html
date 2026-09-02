@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#ffffff" />
-  <title>Marvel Countdown</title>
+  <title>Next Movie Countdown</title>
   <meta name="description" content="A clean, precise countdown to any date and time." />
   <style>
     :root {
@@ -142,7 +142,7 @@
   <div class="page">
     <main>
       <p class="eyebrow" id="eyebrow"></p>
-      <h1 id="eventTitle">Marvel Countdown</h1>
+      <h1 id="eventTitle">Next Movie Countdown</h1>
       <p class="event-date" id="eventDate" hidden></p>
 
       <section class="countdown" aria-label="Countdown" aria-live="off">
@@ -172,7 +172,7 @@
     (() => {
       "use strict";
 
-      const DEFAULT_EVENT_NAME = "Marvel Countdown";
+      const DEFAULT_EVENT_NAME = "Next Movie Countdown";
       const DEFAULT_EVENT_DATE = "2026-11-16T09:00";
 
       const $ = (id) => document.getElementById(id);
