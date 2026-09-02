@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#ffffff" />
+  <title>Marvel Countdown</title>
+  <meta name="description" content="A clean, precise countdown to any date and time." />
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #ffffff;
+      --text: #111111;
+      --muted: #6d6d6d;
+      --line: #dedede;
+      --panel: #f7f7f7;
+      --accent: #c82424;
+      --button: #111111;
+      --button-text: #ffffff;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #101010;
+        --text: #f3f3f3;
+        --muted: #a9a9a9;
+        --line: #343434;
+        --panel: #181818;
+        --accent: #ff5b5b;
+        --button: #f2f2f2;
+        --button-text: #111111;
+      }
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+    }
+
+    .page {
+      width: min(1100px, 100%);
+      padding: 24px clamp(18px, 4vw, 56px) 48px;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 14px;
+    }
+
+    .brand {
+      font-weight: 800;
+      letter-spacing: -0.04em;
+      font-size: clamp(1.35rem, 3vw, 2rem);
+    }
+
+    .brand span { color: var(--accent); }
+
+    .edit-button {
+      appearance: none;
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--text);
+      border-radius: 8px;
+      min-height: 44px;
+      padding: 0 16px;
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .edit-button:hover { background: var(--panel); }
+
+    main {
+      padding: clamp(48px, 9vw, 110px) 0 36px;
+    }
+
+    .eyebrow {
+      margin: 0 0 12px;
+      color: var(--muted);
+      font-size: clamp(0.95rem, 2vw, 1.15rem);
+      font-weight: 700;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 900px;
+      font-size: clamp(2.4rem, 8vw, 6.3rem);
+      line-height: 0.95;
+      letter-spacing: -0.055em;
+      overflow-wrap: anywhere;
+    }
+
+    .event-date {
+      margin: 22px 0 0;
+      color: var(--muted);
+      font-size: clamp(1rem, 2.2vw, 1.3rem);
+    }
+
+    .countdown {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: clamp(10px, 2vw, 24px);
+      margin-top: clamp(42px, 7vw, 76px);
+    }
+
+    .unit {
+      border-top: 4px solid var(--text);
+      padding-top: 12px;
+      min-width: 0;
+    }
+
+    .number {
+      display: block;
+      font-variant-numeric: tabular-nums;
+      font-size: clamp(2.5rem, 8vw, 6.8rem);
+      font-weight: 800;
+      letter-spacing: -0.06em;
+      line-height: 1;
+      overflow-wrap: anywhere;
+    }
+
+    .label {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: clamp(0.8rem, 1.8vw, 1rem);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-weight: 700;
+    }
+
+    .status {
+      min-height: 1.5em;
+      margin: 28px 0 0;
+      font-size: 1rem;
+      color: var(--muted);
+    }
+
+    .status strong { color: var(--accent); }
+
+    footer {
+      margin-top: 55px;
+      border-top: 1px solid var(--line);
+      padding-top: 18px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+
+    @media (max-width: 700px) {
+      .countdown { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 380px) {
+      .page { padding-left: 14px; padding-right: 14px; }
+      .number { font-size: clamp(2.2rem, 17vw, 4rem); }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="brand">marvel<span>.</span></div>
+    </header>
+
+    <main>
+      <p class="eyebrow" id="eyebrow"></p>
+      <h1 id="eventTitle">Marvel Countdown</h1>
+      <p class="event-date" id="eventDate" hidden></p>
+
+      <section class="countdown" aria-label="Countdown" aria-live="off">
+        <div class="unit">
+          <span class="number" id="days">0</span>
+          <span class="label">Days</span>
+        </div>
+        <div class="unit">
+          <span class="number" id="hours">00</span>
+          <span class="label">Hours</span>
+        </div>
+        <div class="unit">
+          <span class="number" id="minutes">00</span>
+          <span class="label">Minutes</span>
+        </div>
+        <div class="unit">
+          <span class="number" id="seconds">00</span>
+          <span class="label">Seconds</span>
+        </div>
+      </section>
+
+      <p class="status" id="status" aria-live="polite"></p>
+    </main>
+  </div>
+
+  <script>
+    (() => {
+      "use strict";
+
+      const DEFAULT_EVENT_NAME = "Marvel Countdown";
+      const DEFAULT_EVENT_DATE = "2026-11-16T09:00";
+
+      const $ = (id) => document.getElementById(id);
+
+      const nodes = {
+        title: $("eventTitle"),
+        eventDate: $("eventDate"),
+        eyebrow: $("eyebrow"),
+        days: $("days"),
+        hours: $("hours"),
+        minutes: $("minutes"),
+        seconds: $("seconds"),
+        status: $("status")
+      };
+
+      let targetDate = null;
+      let timerId = null;
+
+      function pad2(value) {
+        return String(value).padStart(2, "0");
+      }
+
+      function validLocalDateTime(value) {
+        if (!value) return null;
+        const date = new Date(value);
+        return Number.isNaN(date.getTime()) ? null : date;
+      }
+
+      function formatTarget(date) {
+        return new Intl.DateTimeFormat(undefined, {
+          weekday: "long",
+          year: "numeric",
+          month: "long",
+          day: "numeric",
+          hour: "numeric",
+          minute: "2-digit",
+          timeZoneName: "short"
+        }).format(date);
+      }
+
+      function readInitialState() {
+        const params = new URLSearchParams(window.location.search);
+        const title = params.get("event") || DEFAULT_EVENT_NAME;
+        const dateText = params.get("date") || DEFAULT_EVENT_DATE;
+        const parsed = validLocalDateTime(dateText);
+        return {
+          title: title.slice(0, 100),
+          date: parsed || validLocalDateTime(DEFAULT_EVENT_DATE)
+        };
+      }
+
+      function applyEvent(title, date, updateUrl = true) {
+        targetDate = date;
+        nodes.title.textContent = title;
+        nodes.eventDate.textContent = formatTarget(date);
+        document.title = `${title}`;
+
+        if (updateUrl && window.history && history.replaceState) {
+          const url = new URL(window.location.href);
+          url.searchParams.set("event", title);
+          url.searchParams.set("date", date.toISOString().slice(0, 16));
+          history.replaceState(null, "", url);
+        }
+
+        updateCountdown();
+      }
+
+      function renderParts(ms) {
+        const totalSeconds = Math.floor(ms / 1000);
+        const days = Math.floor(totalSeconds / 86400);
+        const hours = Math.floor((totalSeconds % 86400) / 3600);
+        const minutes = Math.floor((totalSeconds % 3600) / 60);
+        const seconds = totalSeconds % 60;
+
+        nodes.days.textContent = String(days);
+        nodes.hours.textContent = pad2(hours);
+        nodes.minutes.textContent = pad2(minutes);
+        nodes.seconds.textContent = pad2(seconds);
+      }
+
+      function updateCountdown() {
+        if (!targetDate) return;
+
+        const now = new Date();
+        const difference = targetDate.getTime() - now.getTime();
+        const isPast = difference < 0;
+        const magnitude = Math.abs(difference);
+
+        renderParts(magnitude);
+
+        if (Math.abs(difference) < 1000) {
+          nodes.eyebrow.textContent = "It is time";
+          nodes.status.innerHTML = "<strong>The event is happening now.</strong>";
+        } else if (isPast) {
+          nodes.eyebrow.textContent = "Time since";
+          nodes.status.innerHTML = "<strong>This event has already happened.</strong> The counter is showing elapsed time.";
+        } else {
+          nodes.eyebrow.textContent = "";
+        }
+      }
+
+      function startTimer() {
+        if (timerId !== null) clearInterval(timerId);
+        updateCountdown();
+        timerId = setInterval(updateCountdown, 250);
+      }
+
+      const initial = readInitialState();
+      applyEvent(initial.title, initial.date, false);
+      startTimer();
+
+      window.addEventListener("pagehide", () => {
+        if (timerId !== null) clearInterval(timerId);
+      });
+    })();
+  </script>
+</body>
+</html>
