@@ -52,38 +52,6 @@
       padding: 24px clamp(18px, 4vw, 56px) 48px;
     }
 
-    header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 20px;
-      border-bottom: 1px solid var(--line);
-      padding-bottom: 14px;
-    }
-
-    .brand {
-      font-weight: 800;
-      letter-spacing: -0.04em;
-      font-size: clamp(1.35rem, 3vw, 2rem);
-    }
-
-    .brand span { color: var(--accent); }
-
-    .edit-button {
-      appearance: none;
-      border: 1px solid var(--line);
-      background: transparent;
-      color: var(--text);
-      border-radius: 8px;
-      min-height: 44px;
-      padding: 0 16px;
-      font: inherit;
-      font-weight: 700;
-      cursor: pointer;
-    }
-
-    .edit-button:hover { background: var(--panel); }
-
     main {
       padding: clamp(48px, 9vw, 110px) 0 36px;
     }
@@ -172,10 +140,6 @@
 </head>
 <body>
   <div class="page">
-    <header>
-      <div class="brand">marvel<span>.</span></div>
-    </header>
-
     <main>
       <p class="eyebrow" id="eyebrow"></p>
       <h1 id="eventTitle">Marvel Countdown</h1>
