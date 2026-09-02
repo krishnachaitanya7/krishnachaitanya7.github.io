@@ -244,7 +244,7 @@
     </header>
 
     <main>
-      <p class="eyebrow" id="eyebrow">Time until</p>
+      <p class="eyebrow" id="eyebrow"></p>
       <h1 id="eventTitle">Countdown</h1>
       <p class="event-date" id="eventDate" hidden></p>
 
@@ -341,7 +341,7 @@
         targetDate = date;
         nodes.title.textContent = title;
         nodes.eventDate.textContent = formatTarget(date);
-        document.title = `${title} — Countdown`;
+        document.title = `${title}`;
 
         if (updateUrl && window.history && history.replaceState) {
           const url = new URL(window.location.href);
@@ -383,7 +383,7 @@
           nodes.eyebrow.textContent = "Time since";
           nodes.status.innerHTML = "<strong>This event has already happened.</strong> The counter is showing elapsed time.";
         } else {
-          nodes.eyebrow.textContent = "Time until";
+          nodes.eyebrow.textContent = "";
           //nodes.status.textContent = "Counting down in your device’s local time zone.";
         }
       }
