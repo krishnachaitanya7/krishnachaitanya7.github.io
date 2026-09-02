@@ -241,9 +241,6 @@
   <div class="page">
     <header>
       <div class="brand">countdown<span>.</span></div>
-      <button id="editButton" class="edit-button" type="button" aria-expanded="false" aria-controls="settings">
-        Set event
-      </button>
     </header>
 
     <main>
@@ -271,27 +268,6 @@
       </section>
 
       <p class="status" id="status" aria-live="polite"></p>
-
-      <section class="settings" id="settings" hidden>
-        <h2>Set the countdown</h2>
-        <form id="countdownForm">
-          <label>
-            Event name
-            <input id="titleInput" name="title" type="text" maxlength="100" value="Countdown" required />
-          </label>
-
-          <label>
-            Date and time
-            <input id="dateInput" name="date" type="datetime-local" value="2026-11-16T09:00" required />
-          </label>
-
-          <button class="save" type="submit">Start countdown</button>
-        </form>
-        <p class="help">
-          The date/time is interpreted in the visitor’s local time zone. Settings are also written to the URL,
-          so you can bookmark or share a configured countdown.
-        </p>
-      </section>
     </main>
 
     <footer>
@@ -318,12 +294,7 @@
         minutes: $("minutes"),
         seconds: $("seconds"),
         status: $("status"),
-        settings: $("settings"),
-        editButton: $("editButton"),
-        form: $("countdownForm"),
-        titleInput: $("titleInput"),
-        dateInput: $("dateInput")
-      };
+        };
 
       let targetDate = null;
       let timerId = null;
@@ -336,6 +307,15 @@
         if (!value) return null;
         const date = new Date(value);
         return Number.isNaN(date.getTime()) ? null : date;
+      }
+
+      function dateToLocalInputValue(date) {
+        const y = date.getFullYear();
+        const m = String(date.getMonth() + 1).padStart(2, "0");
+        const d = String(date.getDate()).padStart(2, "0");
+        const h = String(date.getHours()).padStart(2, "0");
+        const min = String(date.getMinutes()).padStart(2, "0");
+        return `${y}-${m}-${d}T${h}:${min}`;
       }
 
       function formatTarget(date) {
@@ -355,12 +335,9 @@
         const title = params.get("event") || DEFAULT_EVENT_NAME;
         const dateText = params.get("date") || DEFAULT_EVENT_DATE;
         const parsed = validLocalDateTime(dateText);
-
-        nodes.titleInput.value = title.slice(0, 100);
-        nodes.dateInput.value = parsed ? dateText : DEFAULT_EVENT_DATE;
         return {
-          title: nodes.titleInput.value,
-          date: validLocalDateTime(nodes.dateInput.value)
+          title: title.slice(0, 100),
+          date: parsed || validLocalDateTime(DEFAULT_EVENT_DATE)
         };
       }
 
@@ -373,7 +350,7 @@
         if (updateUrl && window.history && history.replaceState) {
           const url = new URL(window.location.href);
           url.searchParams.set("event", title);
-          url.searchParams.set("date", nodes.dateInput.value);
+          url.searchParams.set("date", dateToLocalInputValue(date));
           history.replaceState(null, "", url);
         }
 
@@ -420,40 +397,7 @@
         updateCountdown();
         timerId = setInterval(updateCountdown, 250);
       }
-
-      nodes.editButton.addEventListener("click", () => {
-        const willOpen = nodes.settings.hidden;
-        nodes.settings.hidden = !willOpen;
-        nodes.editButton.setAttribute("aria-expanded", String(willOpen));
-        nodes.editButton.textContent = willOpen ? "Close" : "Set event";
-        if (willOpen) nodes.titleInput.focus();
-      });
-
-      nodes.form.addEventListener("submit", (event) => {
-        event.preventDefault();
-
-        const title = nodes.titleInput.value.trim();
-        const date = validLocalDateTime(nodes.dateInput.value);
-
-        if (!title) {
-          nodes.status.innerHTML = "<strong>Please enter an event name.</strong>";
-          nodes.titleInput.focus();
-          return;
-        }
-
-        if (!date) {
-          nodes.status.innerHTML = "<strong>Please choose a valid date and time.</strong>";
-          nodes.dateInput.focus();
-          return;
-        }
-
-        applyEvent(title, date, true);
-        nodes.settings.hidden = true;
-        nodes.editButton.setAttribute("aria-expanded", "false");
-        nodes.editButton.textContent = "Set event";
-      });
-
-      const initial = readInitialState();
+const initial = readInitialState();
       applyEvent(initial.title, initial.date, false);
       startTimer();
 
